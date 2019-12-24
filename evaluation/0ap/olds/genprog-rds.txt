@@ -1,0 +1,55 @@
+----tcas
+----------test suite1:26 repairs:197
+----------test suite2:26 repairs:216
+----------test suite3:20 repairs:172
+----------test suite4:25 repairs:205
+----------test suite5:24 repairs:178
+----------test suite6:23 repairs:187
+----------test suite7:21 repairs:172
+----------test suite8:21 repairs:168
+----------test suite9:23 repairs:170
+----------test suite10:23 repairs:176
+----pt2 checked ok
+----------test suite1:3 repairs:17
+----------test suite2:4 repairs:27
+----------test suite3:4 repairs:20
+----------test suite4:2 repairs:12
+----------test suite5:3 repairs:24
+----------test suite6:3 repairs:19
+----------test suite7:3 repairs:26
+----------test suite8:2 repairs:13
+----------test suite9:2 repairs:16
+----------test suite10:2 repairs:15
+----schedule
+----------test suite1:2 repairs:8
+----------test suite2:2 repairs:11
+----------test suite3:2 repairs:12
+----------test suite4:2 repairs:10
+----------test suite5:1 repairs:8
+----------test suite6:2 repairs:9
+----------test suite7:2 repairs:11
+----------test suite8:2 repairs:6
+----------test suite9:1 repairs:9
+----------test suite10:1 repairs:8
+----schedule2
+----------test suite1:4 repairs:30
+----------test suite2:3 repairs:13
+----------test suite3:3 repairs:19
+----------test suite4:3 repairs:23
+----------test suite5:3 repairs:23
+----------test suite6:3 repairs:20
+----------test suite7:3 repairs:23
+----------test suite8:3 repairs:24
+----------test suite9:3 repairs:23
+----------test suite10:3 repairs:25
+----replace
+----------test suite1:7 repairs:64
+----------test suite2:6 repairs:48
+----------test suite3:6 repairs:52
+----------test suite4:6 repairs:54
+----------test suite5:5 repairs:46
+----------test suite6:5 repairs:46
+----------test suite7:5 repairs:43
+----------test suite8:4 repairs:27
+----------test suite9:3 repairs:27
+----------test suite10:3 repairs:26

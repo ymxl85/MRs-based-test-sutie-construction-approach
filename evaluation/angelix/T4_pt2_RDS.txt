@@ -1,0 +1,127 @@
+-------------------------------1
+----------test suite1
+2997
+
+----------test suite2
+2997
+
+----------test suite3
+2997
+
+----------test suite4
+3000
+
+----------test suite5
+2997
+
+----------test suite6
+2997
+
+----------test suite7
+2997
+
+----------test suite8
+2997
+
+----------test suite9
+2997
+
+----------test suite10
+2997
+
+-------------------------------4
+----------test suite1
+2981
+
+----------test suite2
+2981
+
+----------test suite3
+2981
+
+----------test suite4
+3000
+
+----------test suite5
+3000
+
+----------test suite6
+3000
+
+----------test suite7
+2981
+
+----------test suite8
+3000
+
+----------test suite9
+3000
+
+----------test suite10
+3000
+
+-------------------------------5
+----------test suite1
+----------test suite2
+----------test suite3
+----------test suite4
+----------test suite5
+----------test suite6
+2997
+
+----------test suite7
+----------test suite8
+----------test suite9
+----------test suite10
+-------------------------------6
+----------test suite1
+----------test suite2
+2867
+
+----------test suite3
+2898
+
+----------test suite4
+2943
+
+----------test suite5
+2570
+
+----------test suite6
+2898
+
+----------test suite7
+2570
+
+----------test suite8
+2943
+
+----------test suite9
+2898
+
+----------test suite10
+2943
+
+-------------------------------7
+----------test suite1
+3000
+
+----------test suite2
+3000
+
+----------test suite3
+2981
+
+----------test suite4
+3000
+
+----------test suite5
+3000
+
+----------test suite6
+3000
+
+----------test suite7
+----------test suite8
+----------test suite9
+----------test suite10

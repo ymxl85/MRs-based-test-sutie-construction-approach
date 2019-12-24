@@ -1,0 +1,24 @@
+#checked ok
+----tcas
+repair progs:28: repairs:2095
+----pt2
+repair progs:5: repairs:189
+----schedule
+repair progs:4: repairs:157
+----schedule2
+repair progs:4: repairs:297
+----replace
+repair progs:7: repairs:442
+
+
+valid:
+----tcas
+repair progs:28: repairs:1841
+----pt2
+repair progs:5: repairs:189
+----schedule
+repair progs:3: repairs:92
+----schedule2
+repair progs:4: repairs:223
+----replace
+repair progs:7: repairs:433

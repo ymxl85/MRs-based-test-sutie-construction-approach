@@ -1,0 +1,11 @@
+#checked ok
+----tcas
+repair progs:16: repairs:96
+----pt2
+repair progs:2: repairs:20
+----schedule
+repair progs:3: repairs:10
+----schedule2
+repair progs:3: repairs:22
+----replace
+repair progs:13: repairs:83

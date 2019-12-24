@@ -1,0 +1,63 @@
+-------------------------------v4
+----------test suite1
+2981
+----------test suite2
+2981
+----------test suite3
+2981
+----------test suite4
+2981
+----------test suite5
+3000
+----------test suite6
+3000
+----------test suite7
+2981
+----------test suite8
+3000
+----------test suite9
+2981
+----------test suite10
+3000
+-------------------------------v5
+----------test suite1
+2997
+----------test suite2
+2997
+----------test suite3
+2997
+----------test suite4
+2997
+----------test suite5
+3000
+----------test suite6
+2997
+----------test suite7
+2997
+----------test suite8
+2997
+----------test suite9
+2997
+----------test suite10
+2997
+-------------------------------v6
+----------test suite1
+2905
+----------test suite2
+2930
+----------test suite3
+2930
+----------test suite4
+2943
+----------test suite5
+2570
+----------test suite6
+2943
+----------test suite7
+2907
+----------test suite8
+2907
+----------test suite9
+2907
+----------test suite10
+2943

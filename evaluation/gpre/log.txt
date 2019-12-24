@@ -1,0 +1,802 @@
+../../repairs/semfix/replace/mf/1repairs/1/repair.c:10:1: warning: "NULL" redefined
+In file included from /usr/include/_G_config.h:15,
+                 from /usr/include/libio.h:32,
+                 from /usr/include/stdio.h:75,
+                 from ../../repairs/semfix/replace/mf/1repairs/1/repair.c:3:
+/usr/lib/gcc/i486-linux-gnu/4.4.3/include/stddef.h:400:1: warning: this is the location of the previous definition
+../../repairs/semfix/replace/mf/1repairs/1/repair.c: In function ‘omatch’:
+../../repairs/semfix/replace/mf/1repairs/1/repair.c:335: warning: incompatible implicit declaration of built-in function ‘abort’
+../../repairs/semfix/replace/mf/1repairs/1/repair.c: In function ‘patsize’:
+../../repairs/semfix/replace/mf/1repairs/1/repair.c:386: warning: incompatible implicit declaration of built-in function ‘abort’
+../../repairs/semfix/replace/mf/1repairs/11/repair.c:10:1: warning: "NULL" redefined
+In file included from /usr/include/_G_config.h:15,
+                 from /usr/include/libio.h:32,
+                 from /usr/include/stdio.h:75,
+                 from ../../repairs/semfix/replace/mf/1repairs/11/repair.c:3:
+/usr/lib/gcc/i486-linux-gnu/4.4.3/include/stddef.h:400:1: warning: this is the location of the previous definition
+../../repairs/semfix/replace/mf/1repairs/11/repair.c: In function ‘omatch’:
+../../repairs/semfix/replace/mf/1repairs/11/repair.c:335: warning: incompatible implicit declaration of built-in function ‘abort’
+../../repairs/semfix/replace/mf/1repairs/11/repair.c: In function ‘patsize’:
+../../repairs/semfix/replace/mf/1repairs/11/repair.c:386: warning: incompatible implicit declaration of built-in function ‘abort’
+../../repairs/semfix/replace/mf/1repairs/22/repair.c:10:1: warning: "NULL" redefined
+In file included from /usr/include/_G_config.h:15,
+                 from /usr/include/libio.h:32,
+                 from /usr/include/stdio.h:75,
+                 from ../../repairs/semfix/replace/mf/1repairs/22/repair.c:3:
+/usr/lib/gcc/i486-linux-gnu/4.4.3/include/stddef.h:400:1: warning: this is the location of the previous definition
+../../repairs/semfix/replace/mf/1repairs/22/repair.c: In function ‘omatch’:
+../../repairs/semfix/replace/mf/1repairs/22/repair.c:334: warning: incompatible implicit declaration of built-in function ‘abort’
+../../repairs/semfix/replace/mf/1repairs/22/repair.c: In function ‘patsize’:
+../../repairs/semfix/replace/mf/1repairs/22/repair.c:385: warning: incompatible implicit declaration of built-in function ‘abort’
+../../repairs/semfix/replace/mf/1repairs/26/repair.c:10:1: warning: "NULL" redefined
+In file included from /usr/include/_G_config.h:15,
+                 from /usr/include/libio.h:32,
+                 from /usr/include/stdio.h:75,
+                 from ../../repairs/semfix/replace/mf/1repairs/26/repair.c:3:
+/usr/lib/gcc/i486-linux-gnu/4.4.3/include/stddef.h:400:1: warning: this is the location of the previous definition
+../../repairs/semfix/replace/mf/1repairs/26/repair.c: In function ‘omatch’:
+../../repairs/semfix/replace/mf/1repairs/26/repair.c:335: warning: incompatible implicit declaration of built-in function ‘abort’
+../../repairs/semfix/replace/mf/1repairs/26/repair.c: In function ‘patsize’:
+../../repairs/semfix/replace/mf/1repairs/26/repair.c:385: warning: incompatible implicit declaration of built-in function ‘abort’
+../../repairs/semfix/replace/mf/1repairs/5/repair.c:10:1: warning: "NULL" redefined
+In file included from /usr/include/_G_config.h:15,
+                 from /usr/include/libio.h:32,
+                 from /usr/include/stdio.h:75,
+                 from ../../repairs/semfix/replace/mf/1repairs/5/repair.c:3:
+/usr/lib/gcc/i486-linux-gnu/4.4.3/include/stddef.h:400:1: warning: this is the location of the previous definition
+../../repairs/semfix/replace/mf/1repairs/5/repair.c: In function ‘omatch’:
+../../repairs/semfix/replace/mf/1repairs/5/repair.c:335: warning: incompatible implicit declaration of built-in function ‘abort’
+../../repairs/semfix/replace/mf/1repairs/5/repair.c: In function ‘patsize’:
+../../repairs/semfix/replace/mf/1repairs/5/repair.c:386: warning: incompatible implicit declaration of built-in function ‘abort’
+../../repairs/semfix/replace/mf/1repairs/6/repair.c:10:1: warning: "NULL" redefined
+In file included from /usr/include/_G_config.h:15,
+                 from /usr/include/libio.h:32,
+                 from /usr/include/stdio.h:75,
+                 from ../../repairs/semfix/replace/mf/1repairs/6/repair.c:3:
+/usr/lib/gcc/i486-linux-gnu/4.4.3/include/stddef.h:400:1: warning: this is the location of the previous definition
+../../repairs/semfix/replace/mf/1repairs/6/repair.c: In function ‘omatch’:
+../../repairs/semfix/replace/mf/1repairs/6/repair.c:335: warning: incompatible implicit declaration of built-in function ‘abort’
+../../repairs/semfix/replace/mf/1repairs/6/repair.c: In function ‘patsize’:
+../../repairs/semfix/replace/mf/1repairs/6/repair.c:386: warning: incompatible implicit declaration of built-in function ‘abort’
+../../repairs/semfix/replace/mf/1repairs/7/repair.c:10:1: warning: "NULL" redefined
+In file included from /usr/include/_G_config.h:15,
+                 from /usr/include/libio.h:32,
+                 from /usr/include/stdio.h:75,
+                 from ../../repairs/semfix/replace/mf/1repairs/7/repair.c:3:
+/usr/lib/gcc/i486-linux-gnu/4.4.3/include/stddef.h:400:1: warning: this is the location of the previous definition
+../../repairs/semfix/replace/mf/1repairs/7/repair.c: In function ‘omatch’:
+../../repairs/semfix/replace/mf/1repairs/7/repair.c:335: warning: incompatible implicit declaration of built-in function ‘abort’
+../../repairs/semfix/replace/mf/1repairs/7/repair.c: In function ‘patsize’:
+../../repairs/semfix/replace/mf/1repairs/7/repair.c:386: warning: incompatible implicit declaration of built-in function ‘abort’
+../../repairs/semfix/replace/mf/1repairs/9/repair.c:10:1: warning: "NULL" redefined
+In file included from /usr/include/_G_config.h:15,
+                 from /usr/include/libio.h:32,
+                 from /usr/include/stdio.h:75,
+                 from ../../repairs/semfix/replace/mf/1repairs/9/repair.c:3:
+/usr/lib/gcc/i486-linux-gnu/4.4.3/include/stddef.h:400:1: warning: this is the location of the previous definition
+../../repairs/semfix/replace/mf/1repairs/9/repair.c: In function ‘omatch’:
+../../repairs/semfix/replace/mf/1repairs/9/repair.c:335: warning: incompatible implicit declaration of built-in function ‘abort’
+../../repairs/semfix/replace/mf/1repairs/9/repair.c: In function ‘patsize’:
+../../repairs/semfix/replace/mf/1repairs/9/repair.c:386: warning: incompatible implicit declaration of built-in function ‘abort’
+../../repairs/semfix/replace/mf/1repairs/1/repair.c:10:1: warning: "NULL" redefined
+In file included from /usr/include/_G_config.h:15,
+                 from /usr/include/libio.h:32,
+                 from /usr/include/stdio.h:75,
+                 from ../../repairs/semfix/replace/mf/1repairs/1/repair.c:3:
+/usr/lib/gcc/i486-linux-gnu/4.4.3/include/stddef.h:400:1: warning: this is the location of the previous definition
+../../repairs/semfix/replace/mf/1repairs/1/repair.c: In function ‘omatch’:
+../../repairs/semfix/replace/mf/1repairs/1/repair.c:335: warning: incompatible implicit declaration of built-in function ‘abort’
+../../repairs/semfix/replace/mf/1repairs/1/repair.c: In function ‘patsize’:
+../../repairs/semfix/replace/mf/1repairs/1/repair.c:386: warning: incompatible implicit declaration of built-in function ‘abort’
+../../repairs/semfix/replace/mf/1repairs/11/repair.c:10:1: warning: "NULL" redefined
+In file included from /usr/include/_G_config.h:15,
+                 from /usr/include/libio.h:32,
+                 from /usr/include/stdio.h:75,
+                 from ../../repairs/semfix/replace/mf/1repairs/11/repair.c:3:
+/usr/lib/gcc/i486-linux-gnu/4.4.3/include/stddef.h:400:1: warning: this is the location of the previous definition
+../../repairs/semfix/replace/mf/1repairs/11/repair.c: In function ‘omatch’:
+../../repairs/semfix/replace/mf/1repairs/11/repair.c:335: warning: incompatible implicit declaration of built-in function ‘abort’
+../../repairs/semfix/replace/mf/1repairs/11/repair.c: In function ‘patsize’:
+../../repairs/semfix/replace/mf/1repairs/11/repair.c:386: warning: incompatible implicit declaration of built-in function ‘abort’
+../../repairs/semfix/replace/mf/1repairs/22/repair.c:10:1: warning: "NULL" redefined
+In file included from /usr/include/_G_config.h:15,
+                 from /usr/include/libio.h:32,
+                 from /usr/include/stdio.h:75,
+                 from ../../repairs/semfix/replace/mf/1repairs/22/repair.c:3:
+/usr/lib/gcc/i486-linux-gnu/4.4.3/include/stddef.h:400:1: warning: this is the location of the previous definition
+../../repairs/semfix/replace/mf/1repairs/22/repair.c: In function ‘omatch’:
+../../repairs/semfix/replace/mf/1repairs/22/repair.c:334: warning: incompatible implicit declaration of built-in function ‘abort’
+../../repairs/semfix/replace/mf/1repairs/22/repair.c: In function ‘patsize’:
+../../repairs/semfix/replace/mf/1repairs/22/repair.c:385: warning: incompatible implicit declaration of built-in function ‘abort’
+../../repairs/semfix/replace/mf/1repairs/26/repair.c:10:1: warning: "NULL" redefined
+In file included from /usr/include/_G_config.h:15,
+                 from /usr/include/libio.h:32,
+                 from /usr/include/stdio.h:75,
+                 from ../../repairs/semfix/replace/mf/1repairs/26/repair.c:3:
+/usr/lib/gcc/i486-linux-gnu/4.4.3/include/stddef.h:400:1: warning: this is the location of the previous definition
+../../repairs/semfix/replace/mf/1repairs/26/repair.c: In function ‘omatch’:
+../../repairs/semfix/replace/mf/1repairs/26/repair.c:335: warning: incompatible implicit declaration of built-in function ‘abort’
+../../repairs/semfix/replace/mf/1repairs/26/repair.c: In function ‘patsize’:
+../../repairs/semfix/replace/mf/1repairs/26/repair.c:385: warning: incompatible implicit declaration of built-in function ‘abort’
+../../repairs/semfix/replace/mf/1repairs/5/repair.c:10:1: warning: "NULL" redefined
+In file included from /usr/include/_G_config.h:15,
+                 from /usr/include/libio.h:32,
+                 from /usr/include/stdio.h:75,
+                 from ../../repairs/semfix/replace/mf/1repairs/5/repair.c:3:
+/usr/lib/gcc/i486-linux-gnu/4.4.3/include/stddef.h:400:1: warning: this is the location of the previous definition
+../../repairs/semfix/replace/mf/1repairs/5/repair.c: In function ‘omatch’:
+../../repairs/semfix/replace/mf/1repairs/5/repair.c:335: warning: incompatible implicit declaration of built-in function ‘abort’
+../../repairs/semfix/replace/mf/1repairs/5/repair.c: In function ‘patsize’:
+../../repairs/semfix/replace/mf/1repairs/5/repair.c:386: warning: incompatible implicit declaration of built-in function ‘abort’
+../../repairs/semfix/replace/mf/1repairs/6/repair.c:10:1: warning: "NULL" redefined
+In file included from /usr/include/_G_config.h:15,
+                 from /usr/include/libio.h:32,
+                 from /usr/include/stdio.h:75,
+                 from ../../repairs/semfix/replace/mf/1repairs/6/repair.c:3:
+/usr/lib/gcc/i486-linux-gnu/4.4.3/include/stddef.h:400:1: warning: this is the location of the previous definition
+../../repairs/semfix/replace/mf/1repairs/6/repair.c: In function ‘omatch’:
+../../repairs/semfix/replace/mf/1repairs/6/repair.c:335: warning: incompatible implicit declaration of built-in function ‘abort’
+../../repairs/semfix/replace/mf/1repairs/6/repair.c: In function ‘patsize’:
+../../repairs/semfix/replace/mf/1repairs/6/repair.c:386: warning: incompatible implicit declaration of built-in function ‘abort’
+../../repairs/semfix/replace/mf/1repairs/7/repair.c:10:1: warning: "NULL" redefined
+In file included from /usr/include/_G_config.h:15,
+                 from /usr/include/libio.h:32,
+                 from /usr/include/stdio.h:75,
+                 from ../../repairs/semfix/replace/mf/1repairs/7/repair.c:3:
+/usr/lib/gcc/i486-linux-gnu/4.4.3/include/stddef.h:400:1: warning: this is the location of the previous definition
+../../repairs/semfix/replace/mf/1repairs/7/repair.c: In function ‘omatch’:
+../../repairs/semfix/replace/mf/1repairs/7/repair.c:335: warning: incompatible implicit declaration of built-in function ‘abort’
+../../repairs/semfix/replace/mf/1repairs/7/repair.c: In function ‘patsize’:
+../../repairs/semfix/replace/mf/1repairs/7/repair.c:386: warning: incompatible implicit declaration of built-in function ‘abort’
+../replaceT2.sh: line 2858:  1371 Virtual timer expired   ./limit ./$1 '%*' ' tI"' 'o' > $2/O2858
+../../repairs/semfix/replace/mf/1repairs/9/repair.c:10:1: warning: "NULL" redefined
+In file included from /usr/include/_G_config.h:15,
+                 from /usr/include/libio.h:32,
+                 from /usr/include/stdio.h:75,
+                 from ../../repairs/semfix/replace/mf/1repairs/9/repair.c:3:
+/usr/lib/gcc/i486-linux-gnu/4.4.3/include/stddef.h:400:1: warning: this is the location of the previous definition
+../../repairs/semfix/replace/mf/1repairs/9/repair.c: In function ‘omatch’:
+../../repairs/semfix/replace/mf/1repairs/9/repair.c:335: warning: incompatible implicit declaration of built-in function ‘abort’
+../../repairs/semfix/replace/mf/1repairs/9/repair.c: In function ‘patsize’:
+../../repairs/semfix/replace/mf/1repairs/9/repair.c:386: warning: incompatible implicit declaration of built-in function ‘abort’
+../../repairs/semfix/replace/mf/1repairs/1/repair.c:10:1: warning: "NULL" redefined
+In file included from /usr/include/_G_config.h:15,
+                 from /usr/include/libio.h:32,
+                 from /usr/include/stdio.h:75,
+                 from ../../repairs/semfix/replace/mf/1repairs/1/repair.c:3:
+/usr/lib/gcc/i486-linux-gnu/4.4.3/include/stddef.h:400:1: warning: this is the location of the previous definition
+../../repairs/semfix/replace/mf/1repairs/1/repair.c: In function ‘omatch’:
+../../repairs/semfix/replace/mf/1repairs/1/repair.c:335: warning: incompatible implicit declaration of built-in function ‘abort’
+../../repairs/semfix/replace/mf/1repairs/1/repair.c: In function ‘patsize’:
+../../repairs/semfix/replace/mf/1repairs/1/repair.c:386: warning: incompatible implicit declaration of built-in function ‘abort’
+../../repairs/semfix/replace/mf/1repairs/11/repair.c:10:1: warning: "NULL" redefined
+In file included from /usr/include/_G_config.h:15,
+                 from /usr/include/libio.h:32,
+                 from /usr/include/stdio.h:75,
+                 from ../../repairs/semfix/replace/mf/1repairs/11/repair.c:3:
+/usr/lib/gcc/i486-linux-gnu/4.4.3/include/stddef.h:400:1: warning: this is the location of the previous definition
+../../repairs/semfix/replace/mf/1repairs/11/repair.c: In function ‘omatch’:
+../../repairs/semfix/replace/mf/1repairs/11/repair.c:335: warning: incompatible implicit declaration of built-in function ‘abort’
+../../repairs/semfix/replace/mf/1repairs/11/repair.c: In function ‘patsize’:
+../../repairs/semfix/replace/mf/1repairs/11/repair.c:386: warning: incompatible implicit declaration of built-in function ‘abort’
+../../repairs/semfix/replace/mf/1repairs/22/repair.c:10:1: warning: "NULL" redefined
+In file included from /usr/include/_G_config.h:15,
+                 from /usr/include/libio.h:32,
+                 from /usr/include/stdio.h:75,
+                 from ../../repairs/semfix/replace/mf/1repairs/22/repair.c:3:
+/usr/lib/gcc/i486-linux-gnu/4.4.3/include/stddef.h:400:1: warning: this is the location of the previous definition
+../../repairs/semfix/replace/mf/1repairs/22/repair.c: In function ‘omatch’:
+../../repairs/semfix/replace/mf/1repairs/22/repair.c:334: warning: incompatible implicit declaration of built-in function ‘abort’
+../../repairs/semfix/replace/mf/1repairs/22/repair.c: In function ‘patsize’:
+../../repairs/semfix/replace/mf/1repairs/22/repair.c:385: warning: incompatible implicit declaration of built-in function ‘abort’
+../../repairs/semfix/replace/mf/1repairs/26/repair.c:10:1: warning: "NULL" redefined
+In file included from /usr/include/_G_config.h:15,
+                 from /usr/include/libio.h:32,
+                 from /usr/include/stdio.h:75,
+                 from ../../repairs/semfix/replace/mf/1repairs/26/repair.c:3:
+/usr/lib/gcc/i486-linux-gnu/4.4.3/include/stddef.h:400:1: warning: this is the location of the previous definition
+../../repairs/semfix/replace/mf/1repairs/26/repair.c: In function ‘omatch’:
+../../repairs/semfix/replace/mf/1repairs/26/repair.c:335: warning: incompatible implicit declaration of built-in function ‘abort’
+../../repairs/semfix/replace/mf/1repairs/26/repair.c: In function ‘patsize’:
+../../repairs/semfix/replace/mf/1repairs/26/repair.c:385: warning: incompatible implicit declaration of built-in function ‘abort’
+../../repairs/semfix/replace/mf/1repairs/5/repair.c:10:1: warning: "NULL" redefined
+In file included from /usr/include/_G_config.h:15,
+                 from /usr/include/libio.h:32,
+                 from /usr/include/stdio.h:75,
+                 from ../../repairs/semfix/replace/mf/1repairs/5/repair.c:3:
+/usr/lib/gcc/i486-linux-gnu/4.4.3/include/stddef.h:400:1: warning: this is the location of the previous definition
+../../repairs/semfix/replace/mf/1repairs/5/repair.c: In function ‘omatch’:
+../../repairs/semfix/replace/mf/1repairs/5/repair.c:335: warning: incompatible implicit declaration of built-in function ‘abort’
+../../repairs/semfix/replace/mf/1repairs/5/repair.c: In function ‘patsize’:
+../../repairs/semfix/replace/mf/1repairs/5/repair.c:386: warning: incompatible implicit declaration of built-in function ‘abort’
+../../repairs/semfix/replace/mf/1repairs/6/repair.c:10:1: warning: "NULL" redefined
+In file included from /usr/include/_G_config.h:15,
+                 from /usr/include/libio.h:32,
+                 from /usr/include/stdio.h:75,
+                 from ../../repairs/semfix/replace/mf/1repairs/6/repair.c:3:
+/usr/lib/gcc/i486-linux-gnu/4.4.3/include/stddef.h:400:1: warning: this is the location of the previous definition
+../../repairs/semfix/replace/mf/1repairs/6/repair.c: In function ‘omatch’:
+../../repairs/semfix/replace/mf/1repairs/6/repair.c:335: warning: incompatible implicit declaration of built-in function ‘abort’
+../../repairs/semfix/replace/mf/1repairs/6/repair.c: In function ‘patsize’:
+../../repairs/semfix/replace/mf/1repairs/6/repair.c:386: warning: incompatible implicit declaration of built-in function ‘abort’
+../../repairs/semfix/replace/mf/1repairs/7/repair.c:10:1: warning: "NULL" redefined
+In file included from /usr/include/_G_config.h:15,
+                 from /usr/include/libio.h:32,
+                 from /usr/include/stdio.h:75,
+                 from ../../repairs/semfix/replace/mf/1repairs/7/repair.c:3:
+/usr/lib/gcc/i486-linux-gnu/4.4.3/include/stddef.h:400:1: warning: this is the location of the previous definition
+../../repairs/semfix/replace/mf/1repairs/7/repair.c: In function ‘omatch’:
+../../repairs/semfix/replace/mf/1repairs/7/repair.c:335: warning: incompatible implicit declaration of built-in function ‘abort’
+../../repairs/semfix/replace/mf/1repairs/7/repair.c: In function ‘patsize’:
+../../repairs/semfix/replace/mf/1repairs/7/repair.c:386: warning: incompatible implicit declaration of built-in function ‘abort’
+../../repairs/semfix/replace/mf/1repairs/9/repair.c:10:1: warning: "NULL" redefined
+In file included from /usr/include/_G_config.h:15,
+                 from /usr/include/libio.h:32,
+                 from /usr/include/stdio.h:75,
+                 from ../../repairs/semfix/replace/mf/1repairs/9/repair.c:3:
+/usr/lib/gcc/i486-linux-gnu/4.4.3/include/stddef.h:400:1: warning: this is the location of the previous definition
+../../repairs/semfix/replace/mf/1repairs/9/repair.c: In function ‘omatch’:
+../../repairs/semfix/replace/mf/1repairs/9/repair.c:335: warning: incompatible implicit declaration of built-in function ‘abort’
+../../repairs/semfix/replace/mf/1repairs/9/repair.c: In function ‘patsize’:
+../../repairs/semfix/replace/mf/1repairs/9/repair.c:386: warning: incompatible implicit declaration of built-in function ‘abort’
+../../repairs/semfix/replace/mf/1repairs/1/repair.c:10:1: warning: "NULL" redefined
+In file included from /usr/include/_G_config.h:15,
+                 from /usr/include/libio.h:32,
+                 from /usr/include/stdio.h:75,
+                 from ../../repairs/semfix/replace/mf/1repairs/1/repair.c:3:
+/usr/lib/gcc/i486-linux-gnu/4.4.3/include/stddef.h:400:1: warning: this is the location of the previous definition
+../../repairs/semfix/replace/mf/1repairs/1/repair.c: In function ‘omatch’:
+../../repairs/semfix/replace/mf/1repairs/1/repair.c:335: warning: incompatible implicit declaration of built-in function ‘abort’
+../../repairs/semfix/replace/mf/1repairs/1/repair.c: In function ‘patsize’:
+../../repairs/semfix/replace/mf/1repairs/1/repair.c:386: warning: incompatible implicit declaration of built-in function ‘abort’
+../../repairs/semfix/replace/mf/1repairs/11/repair.c:10:1: warning: "NULL" redefined
+In file included from /usr/include/_G_config.h:15,
+                 from /usr/include/libio.h:32,
+                 from /usr/include/stdio.h:75,
+                 from ../../repairs/semfix/replace/mf/1repairs/11/repair.c:3:
+/usr/lib/gcc/i486-linux-gnu/4.4.3/include/stddef.h:400:1: warning: this is the location of the previous definition
+../../repairs/semfix/replace/mf/1repairs/11/repair.c: In function ‘omatch’:
+../../repairs/semfix/replace/mf/1repairs/11/repair.c:335: warning: incompatible implicit declaration of built-in function ‘abort’
+../../repairs/semfix/replace/mf/1repairs/11/repair.c: In function ‘patsize’:
+../../repairs/semfix/replace/mf/1repairs/11/repair.c:386: warning: incompatible implicit declaration of built-in function ‘abort’
+../../repairs/semfix/replace/mf/1repairs/22/repair.c:10:1: warning: "NULL" redefined
+In file included from /usr/include/_G_config.h:15,
+                 from /usr/include/libio.h:32,
+                 from /usr/include/stdio.h:75,
+                 from ../../repairs/semfix/replace/mf/1repairs/22/repair.c:3:
+/usr/lib/gcc/i486-linux-gnu/4.4.3/include/stddef.h:400:1: warning: this is the location of the previous definition
+../../repairs/semfix/replace/mf/1repairs/22/repair.c: In function ‘omatch’:
+../../repairs/semfix/replace/mf/1repairs/22/repair.c:334: warning: incompatible implicit declaration of built-in function ‘abort’
+../../repairs/semfix/replace/mf/1repairs/22/repair.c: In function ‘patsize’:
+../../repairs/semfix/replace/mf/1repairs/22/repair.c:385: warning: incompatible implicit declaration of built-in function ‘abort’
+../../repairs/semfix/replace/mf/1repairs/26/repair.c:10:1: warning: "NULL" redefined
+In file included from /usr/include/_G_config.h:15,
+                 from /usr/include/libio.h:32,
+                 from /usr/include/stdio.h:75,
+                 from ../../repairs/semfix/replace/mf/1repairs/26/repair.c:3:
+/usr/lib/gcc/i486-linux-gnu/4.4.3/include/stddef.h:400:1: warning: this is the location of the previous definition
+../../repairs/semfix/replace/mf/1repairs/26/repair.c: In function ‘omatch’:
+../../repairs/semfix/replace/mf/1repairs/26/repair.c:335: warning: incompatible implicit declaration of built-in function ‘abort’
+../../repairs/semfix/replace/mf/1repairs/26/repair.c: In function ‘patsize’:
+../../repairs/semfix/replace/mf/1repairs/26/repair.c:385: warning: incompatible implicit declaration of built-in function ‘abort’
+../../repairs/semfix/replace/mf/1repairs/5/repair.c:10:1: warning: "NULL" redefined
+In file included from /usr/include/_G_config.h:15,
+                 from /usr/include/libio.h:32,
+                 from /usr/include/stdio.h:75,
+                 from ../../repairs/semfix/replace/mf/1repairs/5/repair.c:3:
+/usr/lib/gcc/i486-linux-gnu/4.4.3/include/stddef.h:400:1: warning: this is the location of the previous definition
+../../repairs/semfix/replace/mf/1repairs/5/repair.c: In function ‘omatch’:
+../../repairs/semfix/replace/mf/1repairs/5/repair.c:335: warning: incompatible implicit declaration of built-in function ‘abort’
+../../repairs/semfix/replace/mf/1repairs/5/repair.c: In function ‘patsize’:
+../../repairs/semfix/replace/mf/1repairs/5/repair.c:386: warning: incompatible implicit declaration of built-in function ‘abort’
+../../repairs/semfix/replace/mf/1repairs/6/repair.c:10:1: warning: "NULL" redefined
+In file included from /usr/include/_G_config.h:15,
+                 from /usr/include/libio.h:32,
+                 from /usr/include/stdio.h:75,
+                 from ../../repairs/semfix/replace/mf/1repairs/6/repair.c:3:
+/usr/lib/gcc/i486-linux-gnu/4.4.3/include/stddef.h:400:1: warning: this is the location of the previous definition
+../../repairs/semfix/replace/mf/1repairs/6/repair.c: In function ‘omatch’:
+../../repairs/semfix/replace/mf/1repairs/6/repair.c:335: warning: incompatible implicit declaration of built-in function ‘abort’
+../../repairs/semfix/replace/mf/1repairs/6/repair.c: In function ‘patsize’:
+../../repairs/semfix/replace/mf/1repairs/6/repair.c:386: warning: incompatible implicit declaration of built-in function ‘abort’
+../../repairs/semfix/replace/mf/1repairs/7/repair.c:10:1: warning: "NULL" redefined
+In file included from /usr/include/_G_config.h:15,
+                 from /usr/include/libio.h:32,
+                 from /usr/include/stdio.h:75,
+                 from ../../repairs/semfix/replace/mf/1repairs/7/repair.c:3:
+/usr/lib/gcc/i486-linux-gnu/4.4.3/include/stddef.h:400:1: warning: this is the location of the previous definition
+../../repairs/semfix/replace/mf/1repairs/7/repair.c: In function ‘omatch’:
+../../repairs/semfix/replace/mf/1repairs/7/repair.c:335: warning: incompatible implicit declaration of built-in function ‘abort’
+../../repairs/semfix/replace/mf/1repairs/7/repair.c: In function ‘patsize’:
+../../repairs/semfix/replace/mf/1repairs/7/repair.c:386: warning: incompatible implicit declaration of built-in function ‘abort’
+../../repairs/semfix/replace/mf/1repairs/9/repair.c:10:1: warning: "NULL" redefined
+In file included from /usr/include/_G_config.h:15,
+                 from /usr/include/libio.h:32,
+                 from /usr/include/stdio.h:75,
+                 from ../../repairs/semfix/replace/mf/1repairs/9/repair.c:3:
+/usr/lib/gcc/i486-linux-gnu/4.4.3/include/stddef.h:400:1: warning: this is the location of the previous definition
+../../repairs/semfix/replace/mf/1repairs/9/repair.c: In function ‘omatch’:
+../../repairs/semfix/replace/mf/1repairs/9/repair.c:335: warning: incompatible implicit declaration of built-in function ‘abort’
+../../repairs/semfix/replace/mf/1repairs/9/repair.c: In function ‘patsize’:
+../../repairs/semfix/replace/mf/1repairs/9/repair.c:386: warning: incompatible implicit declaration of built-in function ‘abort’
+../../repairs/semfix/replace/mf/1repairs/1/repair.c:10:1: warning: "NULL" redefined
+In file included from /usr/include/_G_config.h:15,
+                 from /usr/include/libio.h:32,
+                 from /usr/include/stdio.h:75,
+                 from ../../repairs/semfix/replace/mf/1repairs/1/repair.c:3:
+/usr/lib/gcc/i486-linux-gnu/4.4.3/include/stddef.h:400:1: warning: this is the location of the previous definition
+../../repairs/semfix/replace/mf/1repairs/1/repair.c: In function ‘omatch’:
+../../repairs/semfix/replace/mf/1repairs/1/repair.c:335: warning: incompatible implicit declaration of built-in function ‘abort’
+../../repairs/semfix/replace/mf/1repairs/1/repair.c: In function ‘patsize’:
+../../repairs/semfix/replace/mf/1repairs/1/repair.c:386: warning: incompatible implicit declaration of built-in function ‘abort’
+../../repairs/semfix/replace/mf/1repairs/11/repair.c:10:1: warning: "NULL" redefined
+In file included from /usr/include/_G_config.h:15,
+                 from /usr/include/libio.h:32,
+                 from /usr/include/stdio.h:75,
+                 from ../../repairs/semfix/replace/mf/1repairs/11/repair.c:3:
+/usr/lib/gcc/i486-linux-gnu/4.4.3/include/stddef.h:400:1: warning: this is the location of the previous definition
+../../repairs/semfix/replace/mf/1repairs/11/repair.c: In function ‘omatch’:
+../../repairs/semfix/replace/mf/1repairs/11/repair.c:335: warning: incompatible implicit declaration of built-in function ‘abort’
+../../repairs/semfix/replace/mf/1repairs/11/repair.c: In function ‘patsize’:
+../../repairs/semfix/replace/mf/1repairs/11/repair.c:386: warning: incompatible implicit declaration of built-in function ‘abort’
+../../repairs/semfix/replace/mf/1repairs/22/repair.c:10:1: warning: "NULL" redefined
+In file included from /usr/include/_G_config.h:15,
+                 from /usr/include/libio.h:32,
+                 from /usr/include/stdio.h:75,
+                 from ../../repairs/semfix/replace/mf/1repairs/22/repair.c:3:
+/usr/lib/gcc/i486-linux-gnu/4.4.3/include/stddef.h:400:1: warning: this is the location of the previous definition
+../../repairs/semfix/replace/mf/1repairs/22/repair.c: In function ‘omatch’:
+../../repairs/semfix/replace/mf/1repairs/22/repair.c:334: warning: incompatible implicit declaration of built-in function ‘abort’
+../../repairs/semfix/replace/mf/1repairs/22/repair.c: In function ‘patsize’:
+../../repairs/semfix/replace/mf/1repairs/22/repair.c:385: warning: incompatible implicit declaration of built-in function ‘abort’
+../../repairs/semfix/replace/mf/1repairs/26/repair.c:10:1: warning: "NULL" redefined
+In file included from /usr/include/_G_config.h:15,
+                 from /usr/include/libio.h:32,
+                 from /usr/include/stdio.h:75,
+                 from ../../repairs/semfix/replace/mf/1repairs/26/repair.c:3:
+/usr/lib/gcc/i486-linux-gnu/4.4.3/include/stddef.h:400:1: warning: this is the location of the previous definition
+../../repairs/semfix/replace/mf/1repairs/26/repair.c: In function ‘omatch’:
+../../repairs/semfix/replace/mf/1repairs/26/repair.c:335: warning: incompatible implicit declaration of built-in function ‘abort’
+../../repairs/semfix/replace/mf/1repairs/26/repair.c: In function ‘patsize’:
+../../repairs/semfix/replace/mf/1repairs/26/repair.c:385: warning: incompatible implicit declaration of built-in function ‘abort’
+../../repairs/semfix/replace/mf/1repairs/5/repair.c:10:1: warning: "NULL" redefined
+In file included from /usr/include/_G_config.h:15,
+                 from /usr/include/libio.h:32,
+                 from /usr/include/stdio.h:75,
+                 from ../../repairs/semfix/replace/mf/1repairs/5/repair.c:3:
+/usr/lib/gcc/i486-linux-gnu/4.4.3/include/stddef.h:400:1: warning: this is the location of the previous definition
+../../repairs/semfix/replace/mf/1repairs/5/repair.c: In function ‘omatch’:
+../../repairs/semfix/replace/mf/1repairs/5/repair.c:335: warning: incompatible implicit declaration of built-in function ‘abort’
+../../repairs/semfix/replace/mf/1repairs/5/repair.c: In function ‘patsize’:
+../../repairs/semfix/replace/mf/1repairs/5/repair.c:386: warning: incompatible implicit declaration of built-in function ‘abort’
+../../repairs/semfix/replace/mf/1repairs/6/repair.c:10:1: warning: "NULL" redefined
+In file included from /usr/include/_G_config.h:15,
+                 from /usr/include/libio.h:32,
+                 from /usr/include/stdio.h:75,
+                 from ../../repairs/semfix/replace/mf/1repairs/6/repair.c:3:
+/usr/lib/gcc/i486-linux-gnu/4.4.3/include/stddef.h:400:1: warning: this is the location of the previous definition
+../../repairs/semfix/replace/mf/1repairs/6/repair.c: In function ‘omatch’:
+../../repairs/semfix/replace/mf/1repairs/6/repair.c:335: warning: incompatible implicit declaration of built-in function ‘abort’
+../../repairs/semfix/replace/mf/1repairs/6/repair.c: In function ‘patsize’:
+../../repairs/semfix/replace/mf/1repairs/6/repair.c:386: warning: incompatible implicit declaration of built-in function ‘abort’
+../../repairs/semfix/replace/mf/1repairs/7/repair.c:10:1: warning: "NULL" redefined
+In file included from /usr/include/_G_config.h:15,
+                 from /usr/include/libio.h:32,
+                 from /usr/include/stdio.h:75,
+                 from ../../repairs/semfix/replace/mf/1repairs/7/repair.c:3:
+/usr/lib/gcc/i486-linux-gnu/4.4.3/include/stddef.h:400:1: warning: this is the location of the previous definition
+../../repairs/semfix/replace/mf/1repairs/7/repair.c: In function ‘omatch’:
+../../repairs/semfix/replace/mf/1repairs/7/repair.c:335: warning: incompatible implicit declaration of built-in function ‘abort’
+../../repairs/semfix/replace/mf/1repairs/7/repair.c: In function ‘patsize’:
+../../repairs/semfix/replace/mf/1repairs/7/repair.c:386: warning: incompatible implicit declaration of built-in function ‘abort’
+../../repairs/semfix/replace/mf/1repairs/9/repair.c:10:1: warning: "NULL" redefined
+In file included from /usr/include/_G_config.h:15,
+                 from /usr/include/libio.h:32,
+                 from /usr/include/stdio.h:75,
+                 from ../../repairs/semfix/replace/mf/1repairs/9/repair.c:3:
+/usr/lib/gcc/i486-linux-gnu/4.4.3/include/stddef.h:400:1: warning: this is the location of the previous definition
+../../repairs/semfix/replace/mf/1repairs/9/repair.c: In function ‘omatch’:
+../../repairs/semfix/replace/mf/1repairs/9/repair.c:335: warning: incompatible implicit declaration of built-in function ‘abort’
+../../repairs/semfix/replace/mf/1repairs/9/repair.c: In function ‘patsize’:
+../../repairs/semfix/replace/mf/1repairs/9/repair.c:386: warning: incompatible implicit declaration of built-in function ‘abort’
+../../repairs/semfix/replace/mf/1repairs/1/repair.c:10:1: warning: "NULL" redefined
+In file included from /usr/include/_G_config.h:15,
+                 from /usr/include/libio.h:32,
+                 from /usr/include/stdio.h:75,
+                 from ../../repairs/semfix/replace/mf/1repairs/1/repair.c:3:
+/usr/lib/gcc/i486-linux-gnu/4.4.3/include/stddef.h:400:1: warning: this is the location of the previous definition
+../../repairs/semfix/replace/mf/1repairs/1/repair.c: In function ‘omatch’:
+../../repairs/semfix/replace/mf/1repairs/1/repair.c:335: warning: incompatible implicit declaration of built-in function ‘abort’
+../../repairs/semfix/replace/mf/1repairs/1/repair.c: In function ‘patsize’:
+../../repairs/semfix/replace/mf/1repairs/1/repair.c:386: warning: incompatible implicit declaration of built-in function ‘abort’
+../../repairs/semfix/replace/mf/1repairs/11/repair.c:10:1: warning: "NULL" redefined
+In file included from /usr/include/_G_config.h:15,
+                 from /usr/include/libio.h:32,
+                 from /usr/include/stdio.h:75,
+                 from ../../repairs/semfix/replace/mf/1repairs/11/repair.c:3:
+/usr/lib/gcc/i486-linux-gnu/4.4.3/include/stddef.h:400:1: warning: this is the location of the previous definition
+../../repairs/semfix/replace/mf/1repairs/11/repair.c: In function ‘omatch’:
+../../repairs/semfix/replace/mf/1repairs/11/repair.c:335: warning: incompatible implicit declaration of built-in function ‘abort’
+../../repairs/semfix/replace/mf/1repairs/11/repair.c: In function ‘patsize’:
+../../repairs/semfix/replace/mf/1repairs/11/repair.c:386: warning: incompatible implicit declaration of built-in function ‘abort’
+../../repairs/semfix/replace/mf/1repairs/22/repair.c:10:1: warning: "NULL" redefined
+In file included from /usr/include/_G_config.h:15,
+                 from /usr/include/libio.h:32,
+                 from /usr/include/stdio.h:75,
+                 from ../../repairs/semfix/replace/mf/1repairs/22/repair.c:3:
+/usr/lib/gcc/i486-linux-gnu/4.4.3/include/stddef.h:400:1: warning: this is the location of the previous definition
+../../repairs/semfix/replace/mf/1repairs/22/repair.c: In function ‘omatch’:
+../../repairs/semfix/replace/mf/1repairs/22/repair.c:334: warning: incompatible implicit declaration of built-in function ‘abort’
+../../repairs/semfix/replace/mf/1repairs/22/repair.c: In function ‘patsize’:
+../../repairs/semfix/replace/mf/1repairs/22/repair.c:385: warning: incompatible implicit declaration of built-in function ‘abort’
+../../repairs/semfix/replace/mf/1repairs/26/repair.c:10:1: warning: "NULL" redefined
+In file included from /usr/include/_G_config.h:15,
+                 from /usr/include/libio.h:32,
+                 from /usr/include/stdio.h:75,
+                 from ../../repairs/semfix/replace/mf/1repairs/26/repair.c:3:
+/usr/lib/gcc/i486-linux-gnu/4.4.3/include/stddef.h:400:1: warning: this is the location of the previous definition
+../../repairs/semfix/replace/mf/1repairs/26/repair.c: In function ‘omatch’:
+../../repairs/semfix/replace/mf/1repairs/26/repair.c:335: warning: incompatible implicit declaration of built-in function ‘abort’
+../../repairs/semfix/replace/mf/1repairs/26/repair.c: In function ‘patsize’:
+../../repairs/semfix/replace/mf/1repairs/26/repair.c:385: warning: incompatible implicit declaration of built-in function ‘abort’
+../../repairs/semfix/replace/mf/1repairs/5/repair.c:10:1: warning: "NULL" redefined
+In file included from /usr/include/_G_config.h:15,
+                 from /usr/include/libio.h:32,
+                 from /usr/include/stdio.h:75,
+                 from ../../repairs/semfix/replace/mf/1repairs/5/repair.c:3:
+/usr/lib/gcc/i486-linux-gnu/4.4.3/include/stddef.h:400:1: warning: this is the location of the previous definition
+../../repairs/semfix/replace/mf/1repairs/5/repair.c: In function ‘omatch’:
+../../repairs/semfix/replace/mf/1repairs/5/repair.c:335: warning: incompatible implicit declaration of built-in function ‘abort’
+../../repairs/semfix/replace/mf/1repairs/5/repair.c: In function ‘patsize’:
+../../repairs/semfix/replace/mf/1repairs/5/repair.c:386: warning: incompatible implicit declaration of built-in function ‘abort’
+../../repairs/semfix/replace/mf/1repairs/6/repair.c:10:1: warning: "NULL" redefined
+In file included from /usr/include/_G_config.h:15,
+                 from /usr/include/libio.h:32,
+                 from /usr/include/stdio.h:75,
+                 from ../../repairs/semfix/replace/mf/1repairs/6/repair.c:3:
+/usr/lib/gcc/i486-linux-gnu/4.4.3/include/stddef.h:400:1: warning: this is the location of the previous definition
+../../repairs/semfix/replace/mf/1repairs/6/repair.c: In function ‘omatch’:
+../../repairs/semfix/replace/mf/1repairs/6/repair.c:335: warning: incompatible implicit declaration of built-in function ‘abort’
+../../repairs/semfix/replace/mf/1repairs/6/repair.c: In function ‘patsize’:
+../../repairs/semfix/replace/mf/1repairs/6/repair.c:386: warning: incompatible implicit declaration of built-in function ‘abort’
+../../repairs/semfix/replace/mf/1repairs/7/repair.c:10:1: warning: "NULL" redefined
+In file included from /usr/include/_G_config.h:15,
+                 from /usr/include/libio.h:32,
+                 from /usr/include/stdio.h:75,
+                 from ../../repairs/semfix/replace/mf/1repairs/7/repair.c:3:
+/usr/lib/gcc/i486-linux-gnu/4.4.3/include/stddef.h:400:1: warning: this is the location of the previous definition
+../../repairs/semfix/replace/mf/1repairs/7/repair.c: In function ‘omatch’:
+../../repairs/semfix/replace/mf/1repairs/7/repair.c:335: warning: incompatible implicit declaration of built-in function ‘abort’
+../../repairs/semfix/replace/mf/1repairs/7/repair.c: In function ‘patsize’:
+../../repairs/semfix/replace/mf/1repairs/7/repair.c:386: warning: incompatible implicit declaration of built-in function ‘abort’
+../../repairs/semfix/replace/mf/1repairs/9/repair.c:10:1: warning: "NULL" redefined
+In file included from /usr/include/_G_config.h:15,
+                 from /usr/include/libio.h:32,
+                 from /usr/include/stdio.h:75,
+                 from ../../repairs/semfix/replace/mf/1repairs/9/repair.c:3:
+/usr/lib/gcc/i486-linux-gnu/4.4.3/include/stddef.h:400:1: warning: this is the location of the previous definition
+../../repairs/semfix/replace/mf/1repairs/9/repair.c: In function ‘omatch’:
+../../repairs/semfix/replace/mf/1repairs/9/repair.c:335: warning: incompatible implicit declaration of built-in function ‘abort’
+../../repairs/semfix/replace/mf/1repairs/9/repair.c: In function ‘patsize’:
+../../repairs/semfix/replace/mf/1repairs/9/repair.c:386: warning: incompatible implicit declaration of built-in function ‘abort’
+../../repairs/semfix/replace/mf/1repairs/1/repair.c:10:1: warning: "NULL" redefined
+In file included from /usr/include/_G_config.h:15,
+                 from /usr/include/libio.h:32,
+                 from /usr/include/stdio.h:75,
+                 from ../../repairs/semfix/replace/mf/1repairs/1/repair.c:3:
+/usr/lib/gcc/i486-linux-gnu/4.4.3/include/stddef.h:400:1: warning: this is the location of the previous definition
+../../repairs/semfix/replace/mf/1repairs/1/repair.c: In function ‘omatch’:
+../../repairs/semfix/replace/mf/1repairs/1/repair.c:335: warning: incompatible implicit declaration of built-in function ‘abort’
+../../repairs/semfix/replace/mf/1repairs/1/repair.c: In function ‘patsize’:
+../../repairs/semfix/replace/mf/1repairs/1/repair.c:386: warning: incompatible implicit declaration of built-in function ‘abort’
+../../repairs/semfix/replace/mf/1repairs/11/repair.c:10:1: warning: "NULL" redefined
+In file included from /usr/include/_G_config.h:15,
+                 from /usr/include/libio.h:32,
+                 from /usr/include/stdio.h:75,
+                 from ../../repairs/semfix/replace/mf/1repairs/11/repair.c:3:
+/usr/lib/gcc/i486-linux-gnu/4.4.3/include/stddef.h:400:1: warning: this is the location of the previous definition
+../../repairs/semfix/replace/mf/1repairs/11/repair.c: In function ‘omatch’:
+../../repairs/semfix/replace/mf/1repairs/11/repair.c:335: warning: incompatible implicit declaration of built-in function ‘abort’
+../../repairs/semfix/replace/mf/1repairs/11/repair.c: In function ‘patsize’:
+../../repairs/semfix/replace/mf/1repairs/11/repair.c:386: warning: incompatible implicit declaration of built-in function ‘abort’
+../../repairs/semfix/replace/mf/1repairs/22/repair.c:10:1: warning: "NULL" redefined
+In file included from /usr/include/_G_config.h:15,
+                 from /usr/include/libio.h:32,
+                 from /usr/include/stdio.h:75,
+                 from ../../repairs/semfix/replace/mf/1repairs/22/repair.c:3:
+/usr/lib/gcc/i486-linux-gnu/4.4.3/include/stddef.h:400:1: warning: this is the location of the previous definition
+../../repairs/semfix/replace/mf/1repairs/22/repair.c: In function ‘omatch’:
+../../repairs/semfix/replace/mf/1repairs/22/repair.c:334: warning: incompatible implicit declaration of built-in function ‘abort’
+../../repairs/semfix/replace/mf/1repairs/22/repair.c: In function ‘patsize’:
+../../repairs/semfix/replace/mf/1repairs/22/repair.c:385: warning: incompatible implicit declaration of built-in function ‘abort’
+../../repairs/semfix/replace/mf/1repairs/26/repair.c:10:1: warning: "NULL" redefined
+In file included from /usr/include/_G_config.h:15,
+                 from /usr/include/libio.h:32,
+                 from /usr/include/stdio.h:75,
+                 from ../../repairs/semfix/replace/mf/1repairs/26/repair.c:3:
+/usr/lib/gcc/i486-linux-gnu/4.4.3/include/stddef.h:400:1: warning: this is the location of the previous definition
+../../repairs/semfix/replace/mf/1repairs/26/repair.c: In function ‘omatch’:
+../../repairs/semfix/replace/mf/1repairs/26/repair.c:335: warning: incompatible implicit declaration of built-in function ‘abort’
+../../repairs/semfix/replace/mf/1repairs/26/repair.c: In function ‘patsize’:
+../../repairs/semfix/replace/mf/1repairs/26/repair.c:385: warning: incompatible implicit declaration of built-in function ‘abort’
+../../repairs/semfix/replace/mf/1repairs/5/repair.c:10:1: warning: "NULL" redefined
+In file included from /usr/include/_G_config.h:15,
+                 from /usr/include/libio.h:32,
+                 from /usr/include/stdio.h:75,
+                 from ../../repairs/semfix/replace/mf/1repairs/5/repair.c:3:
+/usr/lib/gcc/i486-linux-gnu/4.4.3/include/stddef.h:400:1: warning: this is the location of the previous definition
+../../repairs/semfix/replace/mf/1repairs/5/repair.c: In function ‘omatch’:
+../../repairs/semfix/replace/mf/1repairs/5/repair.c:335: warning: incompatible implicit declaration of built-in function ‘abort’
+../../repairs/semfix/replace/mf/1repairs/5/repair.c: In function ‘patsize’:
+../../repairs/semfix/replace/mf/1repairs/5/repair.c:386: warning: incompatible implicit declaration of built-in function ‘abort’
+../../repairs/semfix/replace/mf/1repairs/6/repair.c:10:1: warning: "NULL" redefined
+In file included from /usr/include/_G_config.h:15,
+                 from /usr/include/libio.h:32,
+                 from /usr/include/stdio.h:75,
+                 from ../../repairs/semfix/replace/mf/1repairs/6/repair.c:3:
+/usr/lib/gcc/i486-linux-gnu/4.4.3/include/stddef.h:400:1: warning: this is the location of the previous definition
+../../repairs/semfix/replace/mf/1repairs/6/repair.c: In function ‘omatch’:
+../../repairs/semfix/replace/mf/1repairs/6/repair.c:335: warning: incompatible implicit declaration of built-in function ‘abort’
+../../repairs/semfix/replace/mf/1repairs/6/repair.c: In function ‘patsize’:
+../../repairs/semfix/replace/mf/1repairs/6/repair.c:386: warning: incompatible implicit declaration of built-in function ‘abort’
+../../repairs/semfix/replace/mf/1repairs/7/repair.c:10:1: warning: "NULL" redefined
+In file included from /usr/include/_G_config.h:15,
+                 from /usr/include/libio.h:32,
+                 from /usr/include/stdio.h:75,
+                 from ../../repairs/semfix/replace/mf/1repairs/7/repair.c:3:
+/usr/lib/gcc/i486-linux-gnu/4.4.3/include/stddef.h:400:1: warning: this is the location of the previous definition
+../../repairs/semfix/replace/mf/1repairs/7/repair.c: In function ‘omatch’:
+../../repairs/semfix/replace/mf/1repairs/7/repair.c:335: warning: incompatible implicit declaration of built-in function ‘abort’
+../../repairs/semfix/replace/mf/1repairs/7/repair.c: In function ‘patsize’:
+../../repairs/semfix/replace/mf/1repairs/7/repair.c:386: warning: incompatible implicit declaration of built-in function ‘abort’
+../../repairs/semfix/replace/mf/1repairs/9/repair.c:10:1: warning: "NULL" redefined
+In file included from /usr/include/_G_config.h:15,
+                 from /usr/include/libio.h:32,
+                 from /usr/include/stdio.h:75,
+                 from ../../repairs/semfix/replace/mf/1repairs/9/repair.c:3:
+/usr/lib/gcc/i486-linux-gnu/4.4.3/include/stddef.h:400:1: warning: this is the location of the previous definition
+../../repairs/semfix/replace/mf/1repairs/9/repair.c: In function ‘omatch’:
+../../repairs/semfix/replace/mf/1repairs/9/repair.c:335: warning: incompatible implicit declaration of built-in function ‘abort’
+../../repairs/semfix/replace/mf/1repairs/9/repair.c: In function ‘patsize’:
+../../repairs/semfix/replace/mf/1repairs/9/repair.c:386: warning: incompatible implicit declaration of built-in function ‘abort’
+../../repairs/semfix/replace/mf/1repairs/1/repair.c:10:1: warning: "NULL" redefined
+In file included from /usr/include/_G_config.h:15,
+                 from /usr/include/libio.h:32,
+                 from /usr/include/stdio.h:75,
+                 from ../../repairs/semfix/replace/mf/1repairs/1/repair.c:3:
+/usr/lib/gcc/i486-linux-gnu/4.4.3/include/stddef.h:400:1: warning: this is the location of the previous definition
+../../repairs/semfix/replace/mf/1repairs/1/repair.c: In function ‘omatch’:
+../../repairs/semfix/replace/mf/1repairs/1/repair.c:335: warning: incompatible implicit declaration of built-in function ‘abort’
+../../repairs/semfix/replace/mf/1repairs/1/repair.c: In function ‘patsize’:
+../../repairs/semfix/replace/mf/1repairs/1/repair.c:386: warning: incompatible implicit declaration of built-in function ‘abort’
+../../repairs/semfix/replace/mf/1repairs/11/repair.c:10:1: warning: "NULL" redefined
+In file included from /usr/include/_G_config.h:15,
+                 from /usr/include/libio.h:32,
+                 from /usr/include/stdio.h:75,
+                 from ../../repairs/semfix/replace/mf/1repairs/11/repair.c:3:
+/usr/lib/gcc/i486-linux-gnu/4.4.3/include/stddef.h:400:1: warning: this is the location of the previous definition
+../../repairs/semfix/replace/mf/1repairs/11/repair.c: In function ‘omatch’:
+../../repairs/semfix/replace/mf/1repairs/11/repair.c:335: warning: incompatible implicit declaration of built-in function ‘abort’
+../../repairs/semfix/replace/mf/1repairs/11/repair.c: In function ‘patsize’:
+../../repairs/semfix/replace/mf/1repairs/11/repair.c:386: warning: incompatible implicit declaration of built-in function ‘abort’
+../../repairs/semfix/replace/mf/1repairs/22/repair.c:10:1: warning: "NULL" redefined
+In file included from /usr/include/_G_config.h:15,
+                 from /usr/include/libio.h:32,
+                 from /usr/include/stdio.h:75,
+                 from ../../repairs/semfix/replace/mf/1repairs/22/repair.c:3:
+/usr/lib/gcc/i486-linux-gnu/4.4.3/include/stddef.h:400:1: warning: this is the location of the previous definition
+../../repairs/semfix/replace/mf/1repairs/22/repair.c: In function ‘omatch’:
+../../repairs/semfix/replace/mf/1repairs/22/repair.c:334: warning: incompatible implicit declaration of built-in function ‘abort’
+../../repairs/semfix/replace/mf/1repairs/22/repair.c: In function ‘patsize’:
+../../repairs/semfix/replace/mf/1repairs/22/repair.c:385: warning: incompatible implicit declaration of built-in function ‘abort’
+../../repairs/semfix/replace/mf/1repairs/26/repair.c:10:1: warning: "NULL" redefined
+In file included from /usr/include/_G_config.h:15,
+                 from /usr/include/libio.h:32,
+                 from /usr/include/stdio.h:75,
+                 from ../../repairs/semfix/replace/mf/1repairs/26/repair.c:3:
+/usr/lib/gcc/i486-linux-gnu/4.4.3/include/stddef.h:400:1: warning: this is the location of the previous definition
+../../repairs/semfix/replace/mf/1repairs/26/repair.c: In function ‘omatch’:
+../../repairs/semfix/replace/mf/1repairs/26/repair.c:335: warning: incompatible implicit declaration of built-in function ‘abort’
+../../repairs/semfix/replace/mf/1repairs/26/repair.c: In function ‘patsize’:
+../../repairs/semfix/replace/mf/1repairs/26/repair.c:385: warning: incompatible implicit declaration of built-in function ‘abort’
+../../repairs/semfix/replace/mf/1repairs/5/repair.c:10:1: warning: "NULL" redefined
+In file included from /usr/include/_G_config.h:15,
+                 from /usr/include/libio.h:32,
+                 from /usr/include/stdio.h:75,
+                 from ../../repairs/semfix/replace/mf/1repairs/5/repair.c:3:
+/usr/lib/gcc/i486-linux-gnu/4.4.3/include/stddef.h:400:1: warning: this is the location of the previous definition
+../../repairs/semfix/replace/mf/1repairs/5/repair.c: In function ‘omatch’:
+../../repairs/semfix/replace/mf/1repairs/5/repair.c:335: warning: incompatible implicit declaration of built-in function ‘abort’
+../../repairs/semfix/replace/mf/1repairs/5/repair.c: In function ‘patsize’:
+../../repairs/semfix/replace/mf/1repairs/5/repair.c:386: warning: incompatible implicit declaration of built-in function ‘abort’
+../../repairs/semfix/replace/mf/1repairs/6/repair.c:10:1: warning: "NULL" redefined
+In file included from /usr/include/_G_config.h:15,
+                 from /usr/include/libio.h:32,
+                 from /usr/include/stdio.h:75,
+                 from ../../repairs/semfix/replace/mf/1repairs/6/repair.c:3:
+/usr/lib/gcc/i486-linux-gnu/4.4.3/include/stddef.h:400:1: warning: this is the location of the previous definition
+../../repairs/semfix/replace/mf/1repairs/6/repair.c: In function ‘omatch’:
+../../repairs/semfix/replace/mf/1repairs/6/repair.c:335: warning: incompatible implicit declaration of built-in function ‘abort’
+../../repairs/semfix/replace/mf/1repairs/6/repair.c: In function ‘patsize’:
+../../repairs/semfix/replace/mf/1repairs/6/repair.c:386: warning: incompatible implicit declaration of built-in function ‘abort’
+../../repairs/semfix/replace/mf/1repairs/7/repair.c:10:1: warning: "NULL" redefined
+In file included from /usr/include/_G_config.h:15,
+                 from /usr/include/libio.h:32,
+                 from /usr/include/stdio.h:75,
+                 from ../../repairs/semfix/replace/mf/1repairs/7/repair.c:3:
+/usr/lib/gcc/i486-linux-gnu/4.4.3/include/stddef.h:400:1: warning: this is the location of the previous definition
+../../repairs/semfix/replace/mf/1repairs/7/repair.c: In function ‘omatch’:
+../../repairs/semfix/replace/mf/1repairs/7/repair.c:335: warning: incompatible implicit declaration of built-in function ‘abort’
+../../repairs/semfix/replace/mf/1repairs/7/repair.c: In function ‘patsize’:
+../../repairs/semfix/replace/mf/1repairs/7/repair.c:386: warning: incompatible implicit declaration of built-in function ‘abort’
+../replaceT8.sh: line 2177: 26656 Virtual timer expired   ./limit ./$1 '%*' 'f' ',)#HC5FC-3?68`' > $2/O2177
+../../repairs/semfix/replace/mf/1repairs/9/repair.c:10:1: warning: "NULL" redefined
+In file included from /usr/include/_G_config.h:15,
+                 from /usr/include/libio.h:32,
+                 from /usr/include/stdio.h:75,
+                 from ../../repairs/semfix/replace/mf/1repairs/9/repair.c:3:
+/usr/lib/gcc/i486-linux-gnu/4.4.3/include/stddef.h:400:1: warning: this is the location of the previous definition
+../../repairs/semfix/replace/mf/1repairs/9/repair.c: In function ‘omatch’:
+../../repairs/semfix/replace/mf/1repairs/9/repair.c:335: warning: incompatible implicit declaration of built-in function ‘abort’
+../../repairs/semfix/replace/mf/1repairs/9/repair.c: In function ‘patsize’:
+../../repairs/semfix/replace/mf/1repairs/9/repair.c:386: warning: incompatible implicit declaration of built-in function ‘abort’
+../../repairs/semfix/replace/mf/1repairs/1/repair.c:10:1: warning: "NULL" redefined
+In file included from /usr/include/_G_config.h:15,
+                 from /usr/include/libio.h:32,
+                 from /usr/include/stdio.h:75,
+                 from ../../repairs/semfix/replace/mf/1repairs/1/repair.c:3:
+/usr/lib/gcc/i486-linux-gnu/4.4.3/include/stddef.h:400:1: warning: this is the location of the previous definition
+../../repairs/semfix/replace/mf/1repairs/1/repair.c: In function ‘omatch’:
+../../repairs/semfix/replace/mf/1repairs/1/repair.c:335: warning: incompatible implicit declaration of built-in function ‘abort’
+../../repairs/semfix/replace/mf/1repairs/1/repair.c: In function ‘patsize’:
+../../repairs/semfix/replace/mf/1repairs/1/repair.c:386: warning: incompatible implicit declaration of built-in function ‘abort’
+../../repairs/semfix/replace/mf/1repairs/11/repair.c:10:1: warning: "NULL" redefined
+In file included from /usr/include/_G_config.h:15,
+                 from /usr/include/libio.h:32,
+                 from /usr/include/stdio.h:75,
+                 from ../../repairs/semfix/replace/mf/1repairs/11/repair.c:3:
+/usr/lib/gcc/i486-linux-gnu/4.4.3/include/stddef.h:400:1: warning: this is the location of the previous definition
+../../repairs/semfix/replace/mf/1repairs/11/repair.c: In function ‘omatch’:
+../../repairs/semfix/replace/mf/1repairs/11/repair.c:335: warning: incompatible implicit declaration of built-in function ‘abort’
+../../repairs/semfix/replace/mf/1repairs/11/repair.c: In function ‘patsize’:
+../../repairs/semfix/replace/mf/1repairs/11/repair.c:386: warning: incompatible implicit declaration of built-in function ‘abort’
+../../repairs/semfix/replace/mf/1repairs/22/repair.c:10:1: warning: "NULL" redefined
+In file included from /usr/include/_G_config.h:15,
+                 from /usr/include/libio.h:32,
+                 from /usr/include/stdio.h:75,
+                 from ../../repairs/semfix/replace/mf/1repairs/22/repair.c:3:
+/usr/lib/gcc/i486-linux-gnu/4.4.3/include/stddef.h:400:1: warning: this is the location of the previous definition
+../../repairs/semfix/replace/mf/1repairs/22/repair.c: In function ‘omatch’:
+../../repairs/semfix/replace/mf/1repairs/22/repair.c:334: warning: incompatible implicit declaration of built-in function ‘abort’
+../../repairs/semfix/replace/mf/1repairs/22/repair.c: In function ‘patsize’:
+../../repairs/semfix/replace/mf/1repairs/22/repair.c:385: warning: incompatible implicit declaration of built-in function ‘abort’
+../../repairs/semfix/replace/mf/1repairs/26/repair.c:10:1: warning: "NULL" redefined
+In file included from /usr/include/_G_config.h:15,
+                 from /usr/include/libio.h:32,
+                 from /usr/include/stdio.h:75,
+                 from ../../repairs/semfix/replace/mf/1repairs/26/repair.c:3:
+/usr/lib/gcc/i486-linux-gnu/4.4.3/include/stddef.h:400:1: warning: this is the location of the previous definition
+../../repairs/semfix/replace/mf/1repairs/26/repair.c: In function ‘omatch’:
+../../repairs/semfix/replace/mf/1repairs/26/repair.c:335: warning: incompatible implicit declaration of built-in function ‘abort’
+../../repairs/semfix/replace/mf/1repairs/26/repair.c: In function ‘patsize’:
+../../repairs/semfix/replace/mf/1repairs/26/repair.c:385: warning: incompatible implicit declaration of built-in function ‘abort’
+../../repairs/semfix/replace/mf/1repairs/5/repair.c:10:1: warning: "NULL" redefined
+In file included from /usr/include/_G_config.h:15,
+                 from /usr/include/libio.h:32,
+                 from /usr/include/stdio.h:75,
+                 from ../../repairs/semfix/replace/mf/1repairs/5/repair.c:3:
+/usr/lib/gcc/i486-linux-gnu/4.4.3/include/stddef.h:400:1: warning: this is the location of the previous definition
+../../repairs/semfix/replace/mf/1repairs/5/repair.c: In function ‘omatch’:
+../../repairs/semfix/replace/mf/1repairs/5/repair.c:335: warning: incompatible implicit declaration of built-in function ‘abort’
+../../repairs/semfix/replace/mf/1repairs/5/repair.c: In function ‘patsize’:
+../../repairs/semfix/replace/mf/1repairs/5/repair.c:386: warning: incompatible implicit declaration of built-in function ‘abort’
+../../repairs/semfix/replace/mf/1repairs/6/repair.c:10:1: warning: "NULL" redefined
+In file included from /usr/include/_G_config.h:15,
+                 from /usr/include/libio.h:32,
+                 from /usr/include/stdio.h:75,
+                 from ../../repairs/semfix/replace/mf/1repairs/6/repair.c:3:
+/usr/lib/gcc/i486-linux-gnu/4.4.3/include/stddef.h:400:1: warning: this is the location of the previous definition
+../../repairs/semfix/replace/mf/1repairs/6/repair.c: In function ‘omatch’:
+../../repairs/semfix/replace/mf/1repairs/6/repair.c:335: warning: incompatible implicit declaration of built-in function ‘abort’
+../../repairs/semfix/replace/mf/1repairs/6/repair.c: In function ‘patsize’:
+../../repairs/semfix/replace/mf/1repairs/6/repair.c:386: warning: incompatible implicit declaration of built-in function ‘abort’
+../../repairs/semfix/replace/mf/1repairs/7/repair.c:10:1: warning: "NULL" redefined
+In file included from /usr/include/_G_config.h:15,
+                 from /usr/include/libio.h:32,
+                 from /usr/include/stdio.h:75,
+                 from ../../repairs/semfix/replace/mf/1repairs/7/repair.c:3:
+/usr/lib/gcc/i486-linux-gnu/4.4.3/include/stddef.h:400:1: warning: this is the location of the previous definition
+../../repairs/semfix/replace/mf/1repairs/7/repair.c: In function ‘omatch’:
+../../repairs/semfix/replace/mf/1repairs/7/repair.c:335: warning: incompatible implicit declaration of built-in function ‘abort’
+../../repairs/semfix/replace/mf/1repairs/7/repair.c: In function ‘patsize’:
+../../repairs/semfix/replace/mf/1repairs/7/repair.c:386: warning: incompatible implicit declaration of built-in function ‘abort’
+../../repairs/semfix/replace/mf/1repairs/9/repair.c:10:1: warning: "NULL" redefined
+In file included from /usr/include/_G_config.h:15,
+                 from /usr/include/libio.h:32,
+                 from /usr/include/stdio.h:75,
+                 from ../../repairs/semfix/replace/mf/1repairs/9/repair.c:3:
+/usr/lib/gcc/i486-linux-gnu/4.4.3/include/stddef.h:400:1: warning: this is the location of the previous definition
+../../repairs/semfix/replace/mf/1repairs/9/repair.c: In function ‘omatch’:
+../../repairs/semfix/replace/mf/1repairs/9/repair.c:335: warning: incompatible implicit declaration of built-in function ‘abort’
+../../repairs/semfix/replace/mf/1repairs/9/repair.c: In function ‘patsize’:
+../../repairs/semfix/replace/mf/1repairs/9/repair.c:386: warning: incompatible implicit declaration of built-in function ‘abort’
+../../repairs/semfix/replace/mf/1repairs/1/repair.c:10:1: warning: "NULL" redefined
+In file included from /usr/include/_G_config.h:15,
+                 from /usr/include/libio.h:32,
+                 from /usr/include/stdio.h:75,
+                 from ../../repairs/semfix/replace/mf/1repairs/1/repair.c:3:
+/usr/lib/gcc/i486-linux-gnu/4.4.3/include/stddef.h:400:1: warning: this is the location of the previous definition
+../../repairs/semfix/replace/mf/1repairs/1/repair.c: In function ‘omatch’:
+../../repairs/semfix/replace/mf/1repairs/1/repair.c:335: warning: incompatible implicit declaration of built-in function ‘abort’
+../../repairs/semfix/replace/mf/1repairs/1/repair.c: In function ‘patsize’:
+../../repairs/semfix/replace/mf/1repairs/1/repair.c:386: warning: incompatible implicit declaration of built-in function ‘abort’
+../../repairs/semfix/replace/mf/1repairs/11/repair.c:10:1: warning: "NULL" redefined
+In file included from /usr/include/_G_config.h:15,
+                 from /usr/include/libio.h:32,
+                 from /usr/include/stdio.h:75,
+                 from ../../repairs/semfix/replace/mf/1repairs/11/repair.c:3:
+/usr/lib/gcc/i486-linux-gnu/4.4.3/include/stddef.h:400:1: warning: this is the location of the previous definition
+../../repairs/semfix/replace/mf/1repairs/11/repair.c: In function ‘omatch’:
+../../repairs/semfix/replace/mf/1repairs/11/repair.c:335: warning: incompatible implicit declaration of built-in function ‘abort’
+../../repairs/semfix/replace/mf/1repairs/11/repair.c: In function ‘patsize’:
+../../repairs/semfix/replace/mf/1repairs/11/repair.c:386: warning: incompatible implicit declaration of built-in function ‘abort’
+../../repairs/semfix/replace/mf/1repairs/22/repair.c:10:1: warning: "NULL" redefined
+In file included from /usr/include/_G_config.h:15,
+                 from /usr/include/libio.h:32,
+                 from /usr/include/stdio.h:75,
+                 from ../../repairs/semfix/replace/mf/1repairs/22/repair.c:3:
+/usr/lib/gcc/i486-linux-gnu/4.4.3/include/stddef.h:400:1: warning: this is the location of the previous definition
+../../repairs/semfix/replace/mf/1repairs/22/repair.c: In function ‘omatch’:
+../../repairs/semfix/replace/mf/1repairs/22/repair.c:334: warning: incompatible implicit declaration of built-in function ‘abort’
+../../repairs/semfix/replace/mf/1repairs/22/repair.c: In function ‘patsize’:
+../../repairs/semfix/replace/mf/1repairs/22/repair.c:385: warning: incompatible implicit declaration of built-in function ‘abort’
+../../repairs/semfix/replace/mf/1repairs/26/repair.c:10:1: warning: "NULL" redefined
+In file included from /usr/include/_G_config.h:15,
+                 from /usr/include/libio.h:32,
+                 from /usr/include/stdio.h:75,
+                 from ../../repairs/semfix/replace/mf/1repairs/26/repair.c:3:
+/usr/lib/gcc/i486-linux-gnu/4.4.3/include/stddef.h:400:1: warning: this is the location of the previous definition
+../../repairs/semfix/replace/mf/1repairs/26/repair.c: In function ‘omatch’:
+../../repairs/semfix/replace/mf/1repairs/26/repair.c:335: warning: incompatible implicit declaration of built-in function ‘abort’
+../../repairs/semfix/replace/mf/1repairs/26/repair.c: In function ‘patsize’:
+../../repairs/semfix/replace/mf/1repairs/26/repair.c:385: warning: incompatible implicit declaration of built-in function ‘abort’
+../../repairs/semfix/replace/mf/1repairs/5/repair.c:10:1: warning: "NULL" redefined
+In file included from /usr/include/_G_config.h:15,
+                 from /usr/include/libio.h:32,
+                 from /usr/include/stdio.h:75,
+                 from ../../repairs/semfix/replace/mf/1repairs/5/repair.c:3:
+/usr/lib/gcc/i486-linux-gnu/4.4.3/include/stddef.h:400:1: warning: this is the location of the previous definition
+../../repairs/semfix/replace/mf/1repairs/5/repair.c: In function ‘omatch’:
+../../repairs/semfix/replace/mf/1repairs/5/repair.c:335: warning: incompatible implicit declaration of built-in function ‘abort’
+../../repairs/semfix/replace/mf/1repairs/5/repair.c: In function ‘patsize’:
+../../repairs/semfix/replace/mf/1repairs/5/repair.c:386: warning: incompatible implicit declaration of built-in function ‘abort’
+../../repairs/semfix/replace/mf/1repairs/6/repair.c:10:1: warning: "NULL" redefined
+In file included from /usr/include/_G_config.h:15,
+                 from /usr/include/libio.h:32,
+                 from /usr/include/stdio.h:75,
+                 from ../../repairs/semfix/replace/mf/1repairs/6/repair.c:3:
+/usr/lib/gcc/i486-linux-gnu/4.4.3/include/stddef.h:400:1: warning: this is the location of the previous definition
+../../repairs/semfix/replace/mf/1repairs/6/repair.c: In function ‘omatch’:
+../../repairs/semfix/replace/mf/1repairs/6/repair.c:335: warning: incompatible implicit declaration of built-in function ‘abort’
+../../repairs/semfix/replace/mf/1repairs/6/repair.c: In function ‘patsize’:
+../../repairs/semfix/replace/mf/1repairs/6/repair.c:386: warning: incompatible implicit declaration of built-in function ‘abort’
+../../repairs/semfix/replace/mf/1repairs/7/repair.c:10:1: warning: "NULL" redefined
+In file included from /usr/include/_G_config.h:15,
+                 from /usr/include/libio.h:32,
+                 from /usr/include/stdio.h:75,
+                 from ../../repairs/semfix/replace/mf/1repairs/7/repair.c:3:
+/usr/lib/gcc/i486-linux-gnu/4.4.3/include/stddef.h:400:1: warning: this is the location of the previous definition
+../../repairs/semfix/replace/mf/1repairs/7/repair.c: In function ‘omatch’:
+../../repairs/semfix/replace/mf/1repairs/7/repair.c:335: warning: incompatible implicit declaration of built-in function ‘abort’
+../../repairs/semfix/replace/mf/1repairs/7/repair.c: In function ‘patsize’:
+../../repairs/semfix/replace/mf/1repairs/7/repair.c:386: warning: incompatible implicit declaration of built-in function ‘abort’
+../../repairs/semfix/replace/mf/1repairs/9/repair.c:10:1: warning: "NULL" redefined
+In file included from /usr/include/_G_config.h:15,
+                 from /usr/include/libio.h:32,
+                 from /usr/include/stdio.h:75,
+                 from ../../repairs/semfix/replace/mf/1repairs/9/repair.c:3:
+/usr/lib/gcc/i486-linux-gnu/4.4.3/include/stddef.h:400:1: warning: this is the location of the previous definition
+../../repairs/semfix/replace/mf/1repairs/9/repair.c: In function ‘omatch’:
+../../repairs/semfix/replace/mf/1repairs/9/repair.c:335: warning: incompatible implicit declaration of built-in function ‘abort’
+../../repairs/semfix/replace/mf/1repairs/9/repair.c: In function ‘patsize’:
+../../repairs/semfix/replace/mf/1repairs/9/repair.c:386: warning: incompatible implicit declaration of built-in function ‘abort’

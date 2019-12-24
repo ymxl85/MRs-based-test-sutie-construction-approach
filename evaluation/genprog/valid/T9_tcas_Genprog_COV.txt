@@ -1,0 +1,284 @@
+-------------------------------v10
+----------test suite1
+2892
+
+----------test suite2
+2979
+
+----------test suite3
+3000
+
+----------test suite4
+2892
+
+----------test suite5
+2889
+
+----------test suite6
+
+
+----------test suite7
+3000
+
+----------test suite8
+2956
+
+----------test suite9
+2995
+
+----------test suite10
+2892
+
+-------------------------------v15
+----------test suite1
+----------test suite2
+2961
+
+----------test suite3
+----------test suite4
+----------test suite5
+----------test suite6
+----------test suite7
+----------test suite8
+----------test suite9
+----------test suite10
+-------------------------------v20
+----------test suite1
+----------test suite2
+----------test suite3
+----------test suite4
+----------test suite5
+----------test suite6
+----------test suite7
+----------test suite8
+----------test suite9
+----------test suite10
+3000
+
+-------------------------------v21
+----------test suite1
+----------test suite2
+----------test suite3
+----------test suite4
+----------test suite5
+----------test suite6
+1771
+
+----------test suite7
+----------test suite8
+----------test suite9
+----------test suite10
+-------------------------------v24
+----------test suite1
+----------test suite2
+
+
+----------test suite3
+1478
+
+----------test suite4
+2865
+
+----------test suite5
+2965
+
+----------test suite6
+2657
+
+----------test suite7
+----------test suite8
+3000
+
+----------test suite9
+3000
+
+----------test suite10
+3000
+
+-------------------------------v28
+----------test suite1
+
+
+----------test suite2
+----------test suite3
+
+
+----------test suite4
+
+
+----------test suite5
+----------test suite6
+
+
+----------test suite7
+2993
+
+----------test suite8
+----------test suite9
+
+
+----------test suite10
+
+
+-------------------------------v31
+----------test suite1
+
+
+----------test suite2
+3000
+
+----------test suite3
+3000
+
+----------test suite4
+3000
+
+----------test suite5
+3000
+
+----------test suite6
+3000
+
+----------test suite7
+3000
+
+----------test suite8
+3000
+
+----------test suite9
+3000
+
+----------test suite10
+3000
+
+-------------------------------v32
+----------test suite1
+2965
+
+----------test suite2
+3000
+
+----------test suite3
+3000
+
+----------test suite4
+3000
+
+----------test suite5
+
+
+----------test suite6
+3000
+
+----------test suite7
+2960
+
+----------test suite8
+
+
+----------test suite9
+3000
+
+----------test suite10
+3000
+
+-------------------------------v35
+----------test suite1
+----------test suite2
+
+
+----------test suite3
+2993
+
+----------test suite4
+
+
+----------test suite5
+
+
+----------test suite6
+
+
+----------test suite7
+----------test suite8
+
+
+----------test suite9
+
+
+----------test suite10
+-------------------------------v4
+----------test suite1
+3000
+
+----------test suite2
+2960
+
+----------test suite3
+2960
+
+----------test suite4
+2960
+
+----------test suite5
+1909
+
+----------test suite6
+2960
+
+----------test suite7
+----------test suite8
+2879
+
+----------test suite9
+2960
+
+----------test suite10
+2960
+
+-------------------------------v40
+----------test suite1
+----------test suite2
+----------test suite3
+2974
+
+----------test suite4
+2968
+
+----------test suite5
+----------test suite6
+----------test suite7
+----------test suite8
+----------test suite9
+2974
+
+----------test suite10
+-------------------------------v41
+----------test suite1
+2854
+
+----------test suite2
+
+
+----------test suite3
+
+
+----------test suite4
+
+
+----------test suite5
+----------test suite6
+3000
+
+----------test suite7
+3000
+
+----------test suite8
+
+
+----------test suite9
+
+
+----------test suite10
+3000
+

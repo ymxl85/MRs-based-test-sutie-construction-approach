@@ -1,0 +1,71 @@
+-------------------------------v3
+----------test suite1
+----------test suite2
+----------test suite3
+----------test suite4
+----------test suite5
+/home/jmy/0TSE/EvaluationTS
+
+
+----------test suite6
+----------test suite7
+/home/jmy/0TSE/EvaluationTS
+2935
+
+----------test suite8
+----------test suite9
+----------test suite10
+-------------------------------v4
+----------test suite1
+----------test suite2
+----------test suite3
+----------test suite4
+/home/jmy/0TSE/EvaluationTS
+
+----------test suite5
+----------test suite6
+----------test suite7
+----------test suite8
+----------test suite9
+----------test suite10
+-------------------------------v7
+----------test suite1
+/home/jmy/0TSE/EvaluationTS
+2736
+
+----------test suite2
+/home/jmy/0TSE/EvaluationTS
+
+
+----------test suite3
+/home/jmy/0TSE/EvaluationTS
+2929
+
+----------test suite4
+/home/jmy/0TSE/EvaluationTS
+2929
+
+----------test suite5
+/home/jmy/0TSE/EvaluationTS
+
+
+----------test suite6
+/home/jmy/0TSE/EvaluationTS
+2915
+
+----------test suite7
+/home/jmy/0TSE/EvaluationTS
+2915
+
+----------test suite8
+/home/jmy/0TSE/EvaluationTS
+2766
+
+----------test suite9
+/home/jmy/0TSE/EvaluationTS
+2999
+
+----------test suite10
+/home/jmy/0TSE/EvaluationTS
+2929
+

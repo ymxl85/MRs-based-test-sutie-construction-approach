@@ -1,0 +1,63 @@
+-------------------------------v4
+----------test suite1
+2975
+----------test suite2
+2975
+----------test suite3
+2975
+----------test suite4
+2975
+----------test suite5
+3000
+----------test suite6
+3000
+----------test suite7
+2975
+----------test suite8
+3000
+----------test suite9
+2975
+----------test suite10
+3000
+-------------------------------v5
+----------test suite1
+2994
+----------test suite2
+2994
+----------test suite3
+2994
+----------test suite4
+2994
+----------test suite5
+3000
+----------test suite6
+2994
+----------test suite7
+2994
+----------test suite8
+2994
+----------test suite9
+2994
+----------test suite10
+2994
+-------------------------------v6
+----------test suite1
+2912
+----------test suite2
+2914
+----------test suite3
+2914
+----------test suite4
+2936
+----------test suite5
+2561
+----------test suite6
+2936
+----------test suite7
+2908
+----------test suite8
+2908
+----------test suite9
+2911
+----------test suite10
+2936

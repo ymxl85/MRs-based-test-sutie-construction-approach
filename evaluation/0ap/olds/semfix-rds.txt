@@ -1,0 +1,56 @@
+#checked ok
+----tcas
+----------test suite1:29
+----------test suite2:29
+----------test suite3:27
+----------test suite4:28
+----------test suite5:29
+----------test suite6:26
+----------test suite7:28
+----------test suite8:25
+----------test suite9:27
+----------test suite10:26
+----pt2
+----------test suite1:3
+----------test suite2:4
+----------test suite3:4
+----------test suite4:4
+----------test suite5:4
+----------test suite6:5
+----------test suite7:3
+----------test suite8:3
+----------test suite9:3
+----------test suite10:3
+----schedule
+----------test suite1:3
+----------test suite2:4
+----------test suite3:4
+----------test suite4:4
+----------test suite5:3
+----------test suite6:3
+----------test suite7:4
+----------test suite8:4
+----------test suite9:4
+----------test suite10:2
+----schedule2
+----------test suite1:1
+----------test suite2:1
+----------test suite3:1
+----------test suite4:1
+----------test suite5:1
+----------test suite6:1
+----------test suite7:1
+----------test suite8:1
+----------test suite9:1
+----------test suite10:1
+----replace
+----------test suite1:5
+----------test suite2:2
+----------test suite3:2
+----------test suite4:1
+----------test suite5:2
+----------test suite6:3
+----------test suite7:2
+----------test suite8:2
+----------test suite9:2
+----------test suite10:0
