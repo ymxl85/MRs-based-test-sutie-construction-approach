@@ -1,0 +1,448 @@
+###tcas
+-------------------------------v10
+----------test suite1
+[28]
+valid.pass=28
+----------test suite2
+[28]
+valid.pass=28
+----------test suite3
+[28]
+valid.pass=28
+----------test suite4
+[28]
+valid.pass=28
+----------test suite5
+[28]
+valid.pass=28
+----------test suite6
+[28]
+***********invalid **manually checked
+----------test suite7
+[28]
+valid.pass=28
+----------test suite8
+[28]
+valid.pass=28
+----------test suite9
+[28]
+valid.pass=28
+----------test suite10
+[28]
+valid.pass=28
+-------------------------------v15
+----------test suite1
+----------test suite2
+[36]
+valid.pass=36
+----------test suite3
+----------test suite4
+----------test suite5
+----------test suite6
+----------test suite7
+----------test suite8
+----------test suite9
+----------test suite10
+-------------------------------v20
+----------test suite1
+----------test suite2
+----------test suite3
+----------test suite4
+----------test suite5
+----------test suite6
+----------test suite7
+----------test suite8
+----------test suite9
+----------test suite10
+[37]
+valid.pass=37
+-------------------------------v21
+----------test suite1
+----------test suite2
+----------test suite3
+----------test suite4
+----------test suite5
+----------test suite6
+[37]
+valid.pass=37
+----------test suite7
+----------test suite8
+----------test suite9
+----------test suite10
+-------------------------------v24
+----------test suite1
+----------test suite2
+[37]
+***********invalid **manually checked
+----------test suite3
+[37]
+valid.pass=37
+----------test suite4
+[37]
+valid.pass=37
+----------test suite5
+[37]
+valid.pass=37
+----------test suite6
+[37]
+valid.pass=37
+----------test suite7
+----------test suite8
+[37]
+valid.pass=37
+----------test suite9
+[37]
+valid.pass=37
+----------test suite10
+[37]
+valid.pass=37
+-------------------------------v28
+----------test suite1
+[20]
+***********invalid:pass=13
+----------test suite2
+----------test suite3
+[20]
+***********invalid:pass=13
+----------test suite4
+[20]
+***********invalid:pass=13
+----------test suite5
+----------test suite6
+[20]
+***********invalid:pass=13
+----------test suite7
+[20]
+valid.pass=20
+----------test suite8
+----------test suite9
+[20]
+***********invalid:pass=13
+----------test suite10
+[20]
+***********invalid:pass=13
+-------------------------------v31
+----------test suite1
+[21]
+***********invalid:pass=17
+----------test suite2
+[21]
+valid.pass=21
+----------test suite3
+[21]
+valid.pass=21
+----------test suite4
+[21]
+valid.pass=21
+----------test suite5
+[21]
+valid.pass=21
+----------test suite6
+[21]
+valid.pass=21
+----------test suite7
+[21]
+valid.pass=21
+----------test suite8
+[21]
+valid.pass=21
+----------test suite9
+[21]
+valid.pass=21
+----------test suite10
+[21]
+valid.pass=21
+-------------------------------v32
+----------test suite1
+[21]
+valid.pass=21
+----------test suite2
+[21]
+valid.pass=21
+----------test suite3
+[21]
+valid.pass=21
+----------test suite4
+[21]
+valid.pass=21
+----------test suite5
+[21]
+***********invalid:pass=20
+----------test suite6
+[21]
+valid.pass=21
+----------test suite7
+[21]
+valid.pass=21
+----------test suite8
+[21]
+***********invalid:pass=20
+----------test suite9
+[21]
+valid.pass=21
+----------test suite10
+[21]
+valid.pass=21
+-------------------------------v35
+----------test suite1
+----------test suite2
+[20]
+***********invalid:pass=13
+----------test suite3
+[20]
+valid.pass=20
+----------test suite4
+[20]
+***********invalid:pass=17
+----------test suite5
+[20]
+***********invalid:pass=13
+----------test suite6
+[20]
+***********invalid:pass=13
+----------test suite7
+----------test suite8
+[20]
+***********invalid:pass=13
+----------test suite9
+[20]
+***********invalid:pass=13
+----------test suite10
+-------------------------------v4
+----------test suite1
+[27]
+valid.pass=27
+----------test suite2
+[27]
+valid.pass=27
+----------test suite3
+[27]
+valid.pass=27
+----------test suite4
+[27]
+valid.pass=27
+----------test suite5
+[27]
+valid.pass=27
+----------test suite6
+[27]
+valid.pass=27
+----------test suite7
+----------test suite8
+[27]
+valid.pass=27
+----------test suite9
+[27]
+valid.pass=27
+----------test suite10
+[27]
+valid.pass=27
+-------------------------------v40
+----------test suite1
+----------test suite2
+----------test suite3
+[23]
+valid.pass=23
+----------test suite4
+[23]
+valid.pass=23
+----------test suite5
+----------test suite6
+----------test suite7
+----------test suite8
+----------test suite9
+[23]
+valid.pass=23
+----------test suite10
+-------------------------------v41
+----------test suite1
+[27]
+valid.pass=27
+----------test suite2
+[27]
+***********invalid:pass=11
+----------test suite3
+[27]
+***********invalid:pass=11
+----------test suite4
+[27]
+***********invalid:pass=11
+----------test suite5
+----------test suite6
+[27]
+valid.pass=27
+----------test suite7
+[27]
+valid.pass=27
+----------test suite8
+[27]
+***********invalid:pass=11
+----------test suite9
+[27]
+***********invalid:pass=11
+----------test suite10
+[27]
+valid.pass=27
+###replace
+-------------------------------v13
+----------test suite1
+[54]
+valid.pass=54
+----------test suite2
+----------test suite3
+----------test suite4
+----------test suite5
+----------test suite6
+----------test suite7
+----------test suite8
+----------test suite9
+----------test suite10
+-------------------------------v17
+----------test suite1
+----------test suite2
+----------test suite3
+----------test suite4
+----------test suite5
+[52]
+valid.pass=52
+----------test suite6
+----------test suite7
+----------test suite8
+----------test suite9
+----------test suite10
+-------------------------------v20
+----------test suite1
+----------test suite2
+----------test suite3
+----------test suite4
+----------test suite5
+[50]
+valid.pass=50
+----------test suite6
+[50]
+valid.pass=50
+----------test suite7
+----------test suite8
+[50]
+valid.pass=50
+----------test suite9
+----------test suite10
+-------------------------------v27
+----------test suite1
+[50]
+valid.pass=50
+----------test suite2
+[50]
+valid.pass=50
+----------test suite3
+[50]
+valid.pass=50
+----------test suite4
+[50]
+valid.pass=50
+----------test suite5
+[50]
+valid.pass=50
+----------test suite6
+[50]
+valid.pass=50
+----------test suite7
+[50]
+valid.pass=50
+----------test suite8
+[50]
+valid.pass=50
+----------test suite9
+[50]
+valid.pass=50
+----------test suite10
+[50]
+valid.pass=50
+-------------------------------v8
+----------test suite1
+[52]
+valid.pass=52
+----------test suite2
+[52]
+valid.pass=52
+----------test suite3
+[52]
+valid.pass=52
+----------test suite4
+[52]
+valid.pass=52
+----------test suite5
+[52]
+valid.pass=52
+----------test suite6
+[52]
+valid.pass=52
+----------test suite7
+[52]
+valid.pass=52
+----------test suite8
+[52]
+valid.pass=52
+----------test suite9
+[52]
+valid.pass=52
+----------test suite10
+[52]
+valid.pass=52
+###pt2
+-------------------------------v10
+----------test suite1
+[28]
+valid.pass=28
+----------test suite2
+[28]
+valid.pass=28
+----------test suite3
+[28]
+valid.pass=28
+----------test suite4
+----------test suite5
+[28]
+valid.pass=28
+----------test suite6
+[28]
+valid.pass=28
+----------test suite7
+[28]
+valid.pass=28
+----------test suite8
+----------test suite9
+[28]
+valid.pass=28
+----------test suite10
+-------------------------------v5
+----------test suite1
+[33]
+valid.pass=33
+----------test suite2
+[33]
+valid.pass=33
+----------test suite3
+[33]
+valid.pass=33
+----------test suite4
+[33]
+valid.pass=33
+----------test suite5
+[33]
+valid.pass=33
+----------test suite6
+[33]
+valid.pass=33
+----------test suite7
+[33]
+valid.pass=33
+----------test suite8
+[33]
+valid.pass=33
+----------test suite9
+[33]
+valid.pass=33
+----------test suite10
+[33]
+valid.pass=33
