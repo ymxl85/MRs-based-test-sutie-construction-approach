@@ -1,0 +1,13 @@
+{
+    "updown":  [
+            "--use-semfix-synthesizer",
+            "--initial-tests 1",
+            "--max-z3-trials 1",
+            "--klee-max-forks 50",
+            "--synthesis-func-params",
+            "--synthesis-used-vars",
+            "--defect", "assignments",
+            "--synthesis-levels", "variables",
+            "--synthesis-levels", "extended-arithmetic"
+        ]
+}

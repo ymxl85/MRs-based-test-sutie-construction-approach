@@ -1,0 +1,11 @@
+--- a/updown.c
++++ b/updown.c
+@@ -8,7 +8,7 @@
+ {
+     int bias;
+     if(in==1) 
+-      bias=down;
++      bias=(up + 87);
+     else
+       bias=up;
+     if(bias>down) return 1;

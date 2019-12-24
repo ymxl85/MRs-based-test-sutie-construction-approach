@@ -1,0 +1,45 @@
+#!/bin/bash
+set -euo pipefail
+
+
+SCRIPT_DIR=$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)
+
+usage="Usage: repair VERSION"
+
+subject="updown"
+
+SUBJECT_DIR=${SCRIPT_DIR}
+
+if [[ $# > 0 ]]; then
+    version="$1"
+    shift
+else
+    echo "$usage"s
+    exit 1
+fi
+
+arguments="$@"
+
+echo "arg=="$arguments
+
+if [ ! -f $SUBJECT_DIR/golden/$subject ]; then
+   (cd $SUBJECT_DIR/golden/; make &> /dev/null)
+fi
+
+src=$SUBJECT_DIR/"updown"$version
+golden=$SUBJECT_DIR/golden
+oracle=$SUBJECT_DIR/"updown"$version/oracle
+
+echo $src
+echo $golden
+echo $oracle
+echo $subject
+echo $version
+
+test_suite="1 2"
+echo $test_suite
+echo $subject
+echo $version
+angelix $src $subject.c $oracle $test_suite --golden $golden \
+    `./get-options $subject` \
+    $arguments

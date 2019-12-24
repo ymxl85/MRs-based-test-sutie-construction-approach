@@ -1,0 +1,57 @@
+gcc -D_GNUCC -E -DCIL=1 T1/updown.c -o T1/updown.i
+/usr/local/bin/cilly.native --out T1/updown.cil.c --noPrintLn --useLogicalOperators T1/updown.i
+gcc -D_GNUCC -E T1/updown.cil.c -o T1/updown.cil.i
+gcc -D_GNUCC -c -o T1/updown.o T1/updown.cil.i
+gcc -D_GNUCC -o a.out T1/updown.o
+$ cp T1/updown.cil.i /tmp/CETI_b05200/updown.cil.i
+*** Get good/bad tcs ***
+cmd 'gcc /tmp/CETI_b05200/updown.cil.i -o /tmp/CETI_b05200/updown.cil.i.exe >& /dev/null'
+$ gcc /tmp/CETI_b05200/updown.cil.i -o /tmp/CETI_b05200/updown.cil.i.exe >& /dev/null
+write_file_str: '/tmp/CETI_b05200/updown.cil.i.sh'
+$ sh /tmp/CETI_b05200/updown.cil.i.sh /tmp/CETI_b05200/updown.cil.i.exe /tmp/CETI_b05200/updown.cil.i.routputs &> /dev/null
+[35mAlert: 1/2 tests failed. Bug found. Processing ..
+[mwrite_src: '/tmp/CETI_b05200/updown.cil.i.preproc.c'
+*** Fault Localization ***
+write_src: '/tmp/CETI_b05200/fautloc_9f1a17/updown.cil.i.cov.c'
+cmd 'gcc /tmp/CETI_b05200/fautloc_9f1a17/updown.cil.i.cov.c -o /tmp/CETI_b05200/fautloc_9f1a17/updown.cil.i.cov.c.exe >& /dev/null'
+$ gcc /tmp/CETI_b05200/fautloc_9f1a17/updown.cil.i.cov.c -o /tmp/CETI_b05200/fautloc_9f1a17/updown.cil.i.cov.c.exe >& /dev/null
+write_file_str: '/tmp/CETI_b05200/fautloc_9f1a17/updown.cil.i.g.sh'
+$ sh /tmp/CETI_b05200/fautloc_9f1a17/updown.cil.i.g.sh /tmp/CETI_b05200/fautloc_9f1a17/updown.cil.i.cov.c.exe /tmp/CETI_b05200/fautloc_9f1a17/updown.cil.i.outputs_g_dontcare &> /dev/null
+write_file_str: '/tmp/CETI_b05200/fautloc_9f1a17/updown.cil.i.b.sh'
+$ sh /tmp/CETI_b05200/fautloc_9f1a17/updown.cil.i.b.sh /tmp/CETI_b05200/fautloc_9f1a17/updown.cil.i.cov.c.exe /tmp/CETI_b05200/fautloc_9f1a17/updown.cil.i.outputs_bad_dontcare &> /dev/null
+0. sid 4 in fun 'mainQ' (score 1)
+r = 0;
+1. sid 1 in fun 'mainQ' (score 1)
+bias = down;
+2. sid 9 in fun 'mainQ' (score 0.707107)
+__cil_tmp8 = r;
+3. sid 8 in fun 'mainQ' (score 0.707107)
+__cil_tmp7 = bias > down;
+4. sid 7 in fun 'mainQ' (score 0.707107)
+__cil_tmp6 = in == 1;
+5. sid 6 in fun 'mainQ' (score 0.707107)
+r = -1;
+6. sid 5 in fun 'mainQ' (score 0.707107)
+bias = -1;
+[35mAlert: FL: found 7 stmts with sscores >= 0.01
+[mwrite_file_bin: '/tmp/CETI_b05200/updown.cil.i.s4.t1.arr'
+write_file_bin: '/tmp/CETI_b05200/updown.cil.i.s1.t1.arr'
+write_file_bin: '/tmp/CETI_b05200/updown.cil.i.s9.t1.arr'
+write_file_bin: '/tmp/CETI_b05200/updown.cil.i.s8.t1.arr'
+write_file_bin: '/tmp/CETI_b05200/updown.cil.i.s7.t1.arr'
+write_file_bin: '/tmp/CETI_b05200/updown.cil.i.s6.t1.arr'
+write_file_bin: '/tmp/CETI_b05200/updown.cil.i.s5.t1.arr'
+[35mAlert: Spy: Got 13 info from 7 ssids
+[mwrite_file_bin: '/tmp/CETI_b05200/updown.cil.i.info'
+$ python kl.py /tmp/CETI_b05200/updown.cil.i --do_tb "(4, 3, 1, 1); (4, 1, 4, 5); (1, 1, 4, 5); (9, 1, 4, 5); (8, 7, 2, 1); (8, 1, 4, 5); (7, 3, 1, 1); (7, 7, 2, 1); (7, 1, 4, 5); (6, 3, 1, 1); (6, 1, 4, 5); (5, 3, 1, 1); (5, 1, 4, 5)" --no_parallel
+KR: tasks 118
+worker 0: found fix for /tmp/CETI_b05200/updown.cil.i.s4.t3_z1_c0.tf.c
+KR: summary (bugfix: True, stop after a repair found: True, parallel: False), '/tmp/CETI_b05200/updown.cil.i', 1 / 118
+0. /tmp/CETI_b05200/updown.cil.i.s4.t3_z1_c0.tf.c: r = 0; ===> r = uk_0; ===> uk_0 1
+Note: temp files created in dir '/tmp/CETI_b05200'
+0.18user 0.08system 0:00.95elapsed 27%CPU (0avgtext+0avgdata 40880maxresident)k
+29392inputs+440outputs (161major+23657minor)pagefaults 0swaps
+
+real	0m0.960s
+user	0m0.180s
+sys	0m0.084s

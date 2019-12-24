@@ -1,0 +1,11 @@
+--seed 100
+--compiler gcc
+--program updown.c
+--pos-tests 1
+--neg-tests 1
+--search ga
+--promut 1
+--popsize 40
+--label-repair
+--test-script /bin/sh test.sh
+

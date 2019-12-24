@@ -1,0 +1,102 @@
+arg==
+/home/mingyuejiang/Documents/angelix/TSE0/updown3
+/home/mingyuejiang/Documents/angelix/TSE0/golden
+/home/mingyuejiang/Documents/angelix/TSE0/updown3/oracle
+updown
+3
+1 2
+updown
+3
+WARNING  repair          --semfix disables --defect option
+INFO     repair          src=/home/mingyuejiang/Documents/angelix/TSE0/updown3
+ buggy=updown.c
+ oracle=/home/mingyuejiang/Documents/angelix/TSE0/updown3/oracle
+ golden=/home/mingyuejiang/Documents/angelix/TSE0/golden
+
+INFO     project         configuring validation source
+INFO     project         building json compilation database from validation source
+INFO     project         --message=/tmp/tmp3069e96e/messages
+WARNING  project         dir=/home/mingyuejiang/Documents/angelix/TSE0/.angelix/validation---cmd=bear make -e
+INFO     testing         running test '1' of validation source
+INFO     testing         running test '2' of validation source
+INFO     project         configuring frontend source
+INFO     transformation  instrumenting repairable of frontend source
+INFO     project         building frontend source
+INFO     project         CC=angelix-compiler --test
+INFO     project         --message=/tmp/tmps4en72qb/messages
+WARNING  project         dir=/home/mingyuejiang/Documents/angelix/TSE0/.angelix/frontend---cmd=make -e
+INFO     repair          running positive tests for debugging
+INFO     testing         running test '1' of frontend source
+INFO     repair          running negative tests for debugging
+INFO     testing         running test '2' of frontend source
+INFO     project         configuring golden source
+INFO     project         building golden source
+INFO     project         CC=angelix-compiler --test
+INFO     project         --message=/tmp/tmprvfvp2lm/messages
+WARNING  project         dir=/home/mingyuejiang/Documents/angelix/TSE0/.angelix/golden---cmd=make -e
+INFO     testing         running test '2' of golden source
+INFO     repair          repair test suite: ['1', '2']
+INFO     repair          validation test suite: ['1', '2']
+INFO     localization    selected expressions [(10, 8, 10, 12)] with group score 0.5 
+INFO     localization    selected expressions [(11, 12, 11, 12)] with group score 0.5 
+INFO     localization    selected expressions [(14, 8, 14, 13)] with group score 0.5 
+INFO     repair          considering suspicious expressions [(10, 8, 10, 12)]
+INFO     reduction       selected 1 tests
+INFO     reduction       selected passing tests: []
+INFO     reduction       selected failing tests: ['2']
+INFO     project         configuring backend source
+INFO     transformation  instrumenting suspicious of backend source
+INFO     project         building backend source
+INFO     project         CC=angelix-compiler --klee
+INFO     project         --message=/tmp/tmp237ncxba/messages
+WARNING  project         dir=/home/mingyuejiang/Documents/angelix/TSE0/.angelix/backend---cmd=make -e
+INFO     semfix_infer    inferring specification for test '2'
+INFO     testing         running test '2' of backend source with KLEE
+INFO     semfix_infer    solving path .angelix/backend/klee-out-0/test000001.smt2
+INFO     semfix_infer    UNSAT
+INFO     semfix_infer    solving path .angelix/backend/klee-out-0/test000002.smt2
+INFO     semfix_infer    UNSAT
+INFO     semfix_infer    found 0 angelic paths for test '2'
+INFO     repair          considering suspicious expressions [(11, 12, 11, 12)]
+INFO     reduction       selected 1 tests
+INFO     reduction       selected passing tests: []
+INFO     reduction       selected failing tests: ['2']
+INFO     project         configuring backend source
+INFO     transformation  instrumenting suspicious of backend source
+INFO     project         building backend source
+INFO     project         CC=angelix-compiler --klee
+INFO     project         --message=/tmp/tmpxa0dat2_/messages
+WARNING  project         dir=/home/mingyuejiang/Documents/angelix/TSE0/.angelix/backend---cmd=make -e
+INFO     semfix_infer    inferring specification for test '2'
+INFO     testing         running test '2' of backend source with KLEE
+INFO     semfix_infer    solving path .angelix/backend/klee-out-0/test000001.smt2
+INFO     semfix_infer    UNSAT
+INFO     semfix_infer    solving path .angelix/backend/klee-out-0/test000002.smt2
+INFO     semfix_infer    expression (11, 12, 11, 12)[0]: angelic = 201
+INFO     semfix_infer    found 1 angelic paths for test '2'
+INFO     semfix_syn      synthesized expression (11, 12, 11, 12): 201
+INFO     repair          candidate fix synthesized
+INFO     transformation  applying patch to validation source
+INFO     project         building validation source
+INFO     project         --message=/tmp/tmp9b7yqrxc/messages
+WARNING  project         dir=/home/mingyuejiang/Documents/angelix/TSE0/.angelix/validation---cmd=make -e
+INFO     testing         running test '1' of validation source
+INFO     testing         running test '2' of validation source
+INFO     repair          counterexample test is 1
+INFO     semfix_infer    inferring specification for test '1'
+INFO     testing         running test '1' of backend source with KLEE
+INFO     semfix_infer    solving path .angelix/backend/klee-out-0/test000001.smt2
+INFO     semfix_infer    expression (11, 12, 11, 12)[0]: angelic = -2147483447
+INFO     semfix_infer    solving path .angelix/backend/klee-out-0/test000002.smt2
+INFO     semfix_infer    UNSAT
+INFO     semfix_infer    found 1 angelic paths for test '1'
+INFO     semfix_syn      synthesized expression (11, 12, 11, 12): (up + 87)
+INFO     repair          refined fix is synthesized
+INFO     transformation  applying patch to validation source
+INFO     project         building validation source
+INFO     project         --message=/tmp/tmpct2qzzo2/messages
+WARNING  project         dir=/home/mingyuejiang/Documents/angelix/TSE0/.angelix/validation---cmd=make -e
+INFO     testing         running test '1' of validation source
+INFO     testing         running test '2' of validation source
+INFO     repair          patch successfully generated in 10s (see updown3-2016-Jul12-202927.patch)
+SUCCESS

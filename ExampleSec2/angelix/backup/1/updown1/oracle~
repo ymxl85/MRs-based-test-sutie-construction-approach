@@ -1,0 +1,19 @@
+#!/bin/bash
+set -euo pipefail
+
+SCRIPT_DIR=$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)
+
+echo "****"
+
+test-tcas () {
+    diff -q <(${ANGELIX_RUN:-eval} ./tcas $1) <($SCRIPT_DIR/../golden/tcas $1) > /dev/null
+}
+
+case "$1" in
+    1)
+        test-tcas  "0 1 100"
+        ;;
+    2)
+        test-tcas  "1 101 200"
+        ;;
+esac
